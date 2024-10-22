@@ -1,6 +1,6 @@
-# shadcn-docs-nuxt Minimal Starter
+# Hogwarts API
 
-Starter template for [shadcn-docs-nuxt](https://github.com/ZTL-UwU/shadcn-docs-nuxt).
+The Hogwarts API is a magical API containing data from the wizarding world of Harry Potter, Hogwarts Legacy and the Fantastic Beasts universe. It includes information on characters, movies, books, spells, and potions, making it a valuable resource for developers who need some magical data to use in their code projects.
 
 ## Setup
 
