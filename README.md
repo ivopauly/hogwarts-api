@@ -30,10 +30,6 @@ npm run dev
 
 ## Production
 
-[![Deploy to NuxtHub](https://hub.nuxt.com/button.svg)](https://hub.nuxt.com/new?repo=ZTL-UwU/shadcn-docs-nuxt-starter)
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FZTL-UwU%2Fshadcn-docs-nuxt-starter)
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https%3A%2F%2Fgithub.com%2FZTL-UwU%2Fshadcn-docs-nuxt-starter)
-
 Build the application for production:
 
 ```bash
@@ -47,3 +43,9 @@ npm run preview
 ```
 
 Checkout the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+## Authors & Contributors 👥
+
+The original setup of this repository is by [Ivo Pauly-Koelewijn](https://github.com/ivopauly) and starter template is [shadcn-docs-nuxt](https://github.com/ZTL-UwU/shadcn-docs-nuxt) used.
+
+For a full list of all authors and contributors, see [the contributors page](https://github.com/ivopauly/hogwarts-api/contributors).
