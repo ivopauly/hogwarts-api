@@ -1,0 +1,44 @@
+name: ✨ Feature Request
+description: Request a feature request for Hogwarts API. If it's a good idea, we'll implement it!
+title: "[Feature Request]: "
+labels: ["question"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for taking the time to fill this feature request!
+        Before opening the request, please search for other similar requests.
+  - type: dropdown
+    id: project
+    attributes:
+      label: Project
+      description: To which sub-project is the feature request related to?
+      options:
+        - Website (hogwarts-api.com)
+        - API (hogwarts-api.com/api)
+        - Documentation (hogwarts-api.com/docs)
+        - Other (Please specify in the description)
+    validations:
+      required: true
+  - type: textarea
+    id: feature-description
+    attributes:
+      label: Describe the feature you want to request
+      description: What exactly do you want as a new feature for Potter DB?
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: (Optional) Describe a solution for this feature
+      description: Do you have any idea to solve your requested feature?
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: (Optional) Screenshots
+      description: If applicable, add screenshots to help explain your feature request.
+      value: |
+        ![DESCRIPTION](LINK.png)
+      render: bash
+    validations:
+      required: false
