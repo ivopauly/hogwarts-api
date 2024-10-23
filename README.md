@@ -1,4 +1,22 @@
-# Hogwarts API
+<div align="center">
+  <h1 align="center">
+    <a href="https://hogwarts-api.com">
+      <img src="public/logo.png" alt="Logo" width="120" height="120">
+    </a>
+  </h1>
+
+  <br />
+  <a href="https://github.com/ivopauly/hogwarts-api/issues/new?assignees=&labels=bug&template=1_bug_report.yml">Report a Bug</a>
+  ·
+  <a href="https://github.com/ivopauly/hogwarts-api/issues/new?assignees=&labels=enhancement&template=2_feature_request.yml">Request a Feature</a>
+  ·
+  <a href="https://github.com/ivopauly/hogwarts-api/discussions">Ask a Question</a>
+  ·
+  <a href="https://github.com/ivopauly/hogwarts-api/issues?q=is%3Aopen">Issues</a>
+</div>
+
+<div align="center">
+<br />
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/7f0ff807-c593-4942-92fb-72dcf4bd03ea/deploy-status)](https://app.netlify.com/sites/hogwarts-api/deploys)
 [![Project license](https://img.shields.io/github/license/ivopauly/hogwarts-api)](LICENSE)
@@ -7,6 +25,10 @@
 [![Issue](https://img.shields.io/github/issues/ivopauly/hogwarts-api?style=flat-round)](https://github.com/ivopauly/hogwarts-api/issues)
 [![PRs](https://img.shields.io/github/issues-pr/ivopauly/hogwarts-api?style=flat-round)](https://github.com/ivopauly/hogwarts-api/pulls)
 [![Lines of Code](https://tokei.rs/b1/github/ivopauly/hogwarts-api?category=code&style=flat-round)](https://github.com/ivopauly/hogwarts-api)
+
+</div>
+
+# Hogwarts API
 
 <details open="open">
 <summary>Table of Contents</summary>

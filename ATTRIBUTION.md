@@ -4,5 +4,6 @@ Hogwarts API use images from different authors. If you see a broken link or have
 
 ## [Frontend / Website](https://hogwarts-api.com)
 
-- ["Scenic Route"](https://unsplash.com/photos/CbtmLOWRJx8) by [B K](https://unsplash.com/@woolyart), used under [Unsplash License](https://unsplash.com/license), appearing as the background for the [about page](https://hogwarts-api.com).
-<!-- - ["Picture Name"](https://picture.source) by [Author Name](https://author.name), used under [License Type](https://license.type), used as [used location](https://used.location) -->
+- ["Hogwarts API Logo and Icon"](public/logo.png) by [Ivo Pauly-Koelewijn](https://github.com/ivopauly), used under [MIT License](LICENSE), as a contribution to the Hogwarts API project.
+  <!-- - ["Scenic Route"](https://unsplash.com/photos/CbtmLOWRJx8) by [B K](https://unsplash.com/@woolyart), used under [Unsplash License](https://unsplash.com/license), appearing as the background for the [about page](https://hogwarts-api.com). -->
+  <!-- - ["Picture Name"](https://picture.source) by [Author Name](https://author.name), used under [License Type](https://license.type), used as [used location](https://used.location) -->
