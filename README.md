@@ -1,6 +1,12 @@
 # Hogwarts API
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/7f0ff807-c593-4942-92fb-72dcf4bd03ea/deploy-status)](https://app.netlify.com/sites/hogwarts-api/deploys)
+[![Project license](https://img.shields.io/github/license/ivopauly/hogwarts-api)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/ivopauly/hogwarts-api?style=flat-round)](https://github.com/ivopauly/hogwarts-api/stargazers)
+[![Contributors](https://img.shields.io/github/contributors/ivopauly/hogwarts-api?style=flat-round)](https://github.com/ivopauly/hogwarts-api/graphs/contributors)
+[![Issue](https://img.shields.io/github/issues/ivopauly/hogwarts-api?style=flat-round)](https://github.com/ivopauly/hogwarts-api/issues)
+[![PRs](https://img.shields.io/github/issues-pr/ivopauly/hogwarts-api?style=flat-round)](https://github.com/ivopauly/hogwarts-api/pulls)
+[![Lines of Code](https://tokei.rs/b1/github/ivopauly/hogwarts-api?category=code&style=flat-round)](https://github.com/ivopauly/hogwarts-api)
 
 <details open="open">
 <summary>Table of Contents</summary>
