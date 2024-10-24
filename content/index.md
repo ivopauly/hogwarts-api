@@ -6,26 +6,27 @@ navigation: false
 ::hero
 ---
 announcement:
-  title: 'Release v0.6.4'
+  title: 'Release v0.1.0'
   icon: '🎉'
-  to: https://github.com/ZTL-UwU/shadcn-docs-nuxt/releases
+  to: https://github.com/ivopauly/hogwarts-api/releases
   target: _blank
 actions:
   - name: Get Started
     to: /getting-started
   - name: GitHub
     variant: outline
-    to: https://github.com/ZTL-UwU/shadcn-docs-nuxt
+    to: https://github.com/ivopauly/hogwarts-api
     leftIcon: 'lucide:github'
 ---
 
 #title
-Effortless and Beautiful :br Docs Template.
+Hogwarts API :br Open Source.
 
 #description
-Beautifully designed Nuxt Content template built with shadcn-vue. :br Customizable. Compatible. Open Source.
+A magical API containing data from the wizarding world of Harry Potter, :br
+Hogwarts Legacy and the Fantastic Beasts universe.
 ::
 
-<div class="border rounded-lg shadow-md">
-  <iframe src="/getting-started/introduction" height="700" width="100%" class="rounded-lg" scrolling="no" frameborder="0">
+<div>
+  <img src="hogwarts-castle.png" width="100%" class="border rounded-lg shadow-md m-auto" />
 </div>

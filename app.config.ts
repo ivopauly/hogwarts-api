@@ -6,8 +6,8 @@ export default defineAppConfig({
         "The API for getting information on the wizarding world in Harry Potter & Hogwarts.",
     },
     theme: {
-      customizable: true,
-      color: "zinc",
+      customizable: false,
+      color: "yellow",
       radius: 0.5,
     },
     header: {
@@ -15,8 +15,8 @@ export default defineAppConfig({
       showTitle: true,
       darkModeToggle: true,
       logo: {
-        light: "/logo.svg",
-        dark: "/logo-dark.svg",
+        light: "/logo.png",
+        dark: "/logo.png",
       },
       nav: [],
       links: [

@@ -1,7 +1,8 @@
 {
   "name": "hogwarts-api",
-  "private": true,
-  "type": "module",
+  "version": "0.1.0",
+  "description": "The Hogwarts API is a magical API containing data from the wizarding world of Harry Potter, Hogwarts Legacy and the Fantastic Beasts universe.",
+  "type": "module",  
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
@@ -14,5 +15,29 @@
     "shadcn-docs-nuxt": "^0.6.5",
     "vue": "^3.5.12",
     "vue-router": "^4.4.5"
-  }
+  },
+  "devEngines": {
+    "node": "20.x || 22.x"
+  },
+  "engines": {
+    "node": ">=20.0.0",
+    "npm": ">=10.0.0"
+  },
+  "private": true,
+  "license": "MIT",
+  "keywords": ["api", "json", "harry-potter", "nuxt", "hogwarts", "potter", "harry", "harry-potter-api", "hogwarts-legacy"],
+  "homepage": "https://hogwarts-api.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivopauly/hogwarts-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ivopauly/hogwarts-api/issues/new?assignees=&labels=bug&template=1_bug_report.yml"
+  },
+  "contributors": [
+    {
+      "name": "Ivo Pauly-Koelewijn",
+      "url": "https://github.com/ivopauly"
+    }
+  ]
 }

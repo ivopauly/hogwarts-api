@@ -75,6 +75,10 @@
     @apply -ml-[50px] -mt-1;
     content: counter(step);
   }
+
+  .m-auto {
+    margin: auto;
+  }
 }
 
 @layer base {
