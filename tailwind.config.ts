@@ -2,10 +2,15 @@ import type { Config } from 'tailwindcss';
 import animate from 'tailwindcss-animate';
 
 export default {
-  darkMode: 'selector',
-  safelist: ['dark'],
+  darkMode: 'class',
   prefix: '',
-  content: [],
+  // Upstream's own docs site uses '../' here because it consumes the theme from a
+  // relative path. We consume it from node_modules, so the theme is opted into
+  // scanning via the @source directive in assets/css/tailwind.css instead.
+  content: [
+    './content/**/*',
+    './node_modules/shadcn-docs-nuxt/**/*.{vue,ts,js}',
+  ],
   theme: {
     container: {
       center: true,
