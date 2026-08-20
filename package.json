@@ -2,6 +2,9 @@
   "name": "hogwarts-api",
   "private": true,
   "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
   "scripts": {
     "build": "nuxt build",
     "typecheck": "vue-tsc --noEmit",

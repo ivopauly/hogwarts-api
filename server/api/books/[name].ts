@@ -1,6 +1,5 @@
 export default defineEventHandler(async (event) => {
-  // handle GET requests for the `api/books?name=""` endpoint
-  const name = getRouterParam(event, "name");
-
-  return `Your magic book name is ${name}!`;
+  // handle GET requests for the `api/books/:name` endpoint
+  // :name accepts the book slug or its full name
+  return findInCollection(event, 'books');
 });

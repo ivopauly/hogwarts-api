@@ -6,26 +6,75 @@ navigation: false
 ::hero
 ---
 announcement:
-  title: 'Release v0.6.4'
-  icon: '🎉'
-  to: https://github.com/ZTL-UwU/shadcn-docs-nuxt/releases
-  target: _blank
+  title: '6,084 records across 6 collections'
+  icon: '✨'
+  to: /getting-started/introduction
 actions:
   - name: Get Started
-    to: /getting-started
-  - name: GitHub
+    to: /getting-started/introduction
+  - name: Browse the API
     variant: outline
-    to: https://github.com/ZTL-UwU/shadcn-docs-nuxt
+    to: /endpoints/books
+  - name: GitHub
+    variant: ghost
+    to: https://github.com/ivopauly/hogwarts-api
     leftIcon: 'lucide:github'
 ---
 
 #title
-Effortless and Beautiful :br Docs Template.
+A free API for the :br Wizarding World.
 
 #description
-Beautifully designed Nuxt Content template built with shadcn-vue. :br Customizable. Compatible. Open Source.
+Books, films, characters, spells, potions and creatures from Harry Potter, :br Fantastic Beasts and Hogwarts Legacy. No key, no signup, no rate limit.
 ::
 
-<div class="border rounded-lg shadow-md">
-  <iframe src="/getting-started/introduction" height="700" width="100%" class="rounded-lg" scrolling="no" frameborder="0">
-</div>
+::card-group
+  ::card
+  ---
+  title: Books
+  icon: lucide:book
+  to: /endpoints/books
+  ---
+  All 7 novels, with chapter listings.
+  ::
+  ::card
+  ---
+  title: Movies
+  icon: lucide:clapperboard
+  to: /endpoints/movies
+  ---
+  11 films across both series, with cast and crew credits.
+  ::
+  ::card
+  ---
+  title: Characters
+  icon: lucide:users
+  to: /endpoints/characters
+  ---
+  5,410 witches, wizards, ghosts and goblins.
+  ::
+  ::card
+  ---
+  title: Spells
+  icon: lucide:wand-sparkles
+  to: /endpoints/spells
+  ---
+  345 charms, curses, hexes and jinxes.
+  ::
+  ::card
+  ---
+  title: Potions
+  icon: lucide:flask-conical
+  to: /endpoints/potions
+  ---
+  168 brews, with ingredients and effects.
+  ::
+  ::card
+  ---
+  title: Creatures
+  icon: lucide:paw-print
+  to: /endpoints/creatures
+  ---
+  143 beasts and beings, with Ministry classifications.
+  ::
+::

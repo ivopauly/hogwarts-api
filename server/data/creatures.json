@@ -1,0 +1,3729 @@
+[
+  {
+    "id": "acromantula",
+    "slug": "acromantula",
+    "name": "Acromantula",
+    "summary": "An Acromantula was a giant magical species of spider native to the rainforests of Southeast Asia, particularly Borneo, where it inhabited dense jungles. Acromantulas were believed to be a wizard-bred species, designed to guard dwellings or treasure hoards, and were first created before the Ban on Experimental Breeding in 1965. These giant spiders had a taste for human flesh and were first spotted in 1794. Despite their danger to wizardkind, there existed at least one group dedicated to protecting the species, the Société de Protection des Acromantules, based in the Place Cachée in Paris.",
+    "classification": "XXXXX",
+    "native_to": "Island of Borneo",
+    "skin_color": null,
+    "eye_color": "Black (white, if blind)",
+    "hair_color": "Jet-Black",
+    "feathers": null,
+    "height": null,
+    "length": "Greater than 15 feet, (females were larger)",
+    "wingspan": null,
+    "related_to": [
+      "Spider"
+    ],
+    "distinctions": [
+      "Capable of human speech",
+      "Taste for human flesh",
+      "Cannibalistic"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Acromantula.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Acromantula"
+  },
+  {
+    "id": "ashwinder",
+    "slug": "ashwinder",
+    "name": "Ashwinder",
+    "summary": "The Ashwinder was a magical serpent that was created from the remains of any magical fire that was allowed to burn unchecked.",
+    "classification": "XXX",
+    "native_to": "Worldwide",
+    "skin_color": "Pale-grey",
+    "eye_color": "Red",
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [
+      "Snake"
+    ],
+    "distinctions": [
+      "Birthed from magical fires"
+    ],
+    "affiliation": [
+      "Fire"
+    ],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Ashwinder_PAS.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Ashwinder"
+  },
+  {
+    "id": "augurey",
+    "slug": "augurey",
+    "name": "Augurey",
+    "summary": "The Augurey, also known as the Irish Phoenix, was a thin and mournful looking magical bird, somewhat like a small underfed vulture in appearance, with greenish black feathers and a sharp beak.",
+    "classification": "XX",
+    "native_to": "Britain and Ireland",
+    "skin_color": null,
+    "eye_color": "Blue",
+    "hair_color": null,
+    "feathers": "Greenish-black",
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [
+      "Bird"
+    ],
+    "distinctions": [
+      "Cries foretell rainfall",
+      "Feathers repel ink"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Augurey.jpg",
+    "wiki": "https://harrypotter.fandom.com/wiki/Augurey"
+  },
+  {
+    "id": "basilisk",
+    "slug": "basilisk",
+    "name": "Basilisk",
+    "summary": "The Basilisk was a giant serpent, also known as the King of Serpents. It was a magical beast that was usually bred by Dark wizards. Herpo the Foul was the first to breed a Basilisk. Herpo accomplished this by hatching a chicken egg beneath a toad which resulted in the creature known as a Basilisk.",
+    "classification": "XXXXX",
+    "native_to": "Originally Greece, now found worldwide",
+    "skin_color": "Green",
+    "eye_color": "Yellow",
+    "hair_color": null,
+    "feathers": "Scarlet plume on the head (if male)",
+    "height": null,
+    "length": "50 ft.",
+    "wingspan": null,
+    "related_to": [
+      "Snake",
+      "Chicken",
+      "Toad"
+    ],
+    "distinctions": [
+      "Deadly gaze, capable of Petrification",
+      "Venomous fangs, which are extremely poisonous"
+    ],
+    "affiliation": [
+      "Dark Arts"
+    ],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Basilisk_-_FBcases.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Basilisk"
+  },
+  {
+    "id": "batfish",
+    "slug": "batfish",
+    "name": "BatFish",
+    "summary": "A BatFish was a magical creature, possibly a hybrid between a bat and a fish.",
+    "classification": null,
+    "native_to": null,
+    "skin_color": "Grey",
+    "eye_color": "Yellow",
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [
+      "Bat",
+      "Fish"
+    ],
+    "distinctions": [
+      "Possibly a hybrid between a bat and a fish",
+      "Has four yellow eyes"
+    ],
+    "affiliation": [],
+    "status": "Extant (likely)",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/BatFish_model_HP3_PC.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/BatFish"
+  },
+  {
+    "id": "big-horn-sheep",
+    "slug": "big-horn-sheep",
+    "name": "Big-horn sheep",
+    "summary": "The big-horn sheep was a magical species of sheep. It had a body covered in wool and was distinguished by an enormous single horn in the shape of a plate.",
+    "classification": null,
+    "native_to": null,
+    "skin_color": null,
+    "eye_color": null,
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [
+      "Sheep"
+    ],
+    "distinctions": [
+      "Single big plate-shaped horn"
+    ],
+    "affiliation": [],
+    "status": "Extant (likely)",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Big-Horn_Sheep_concept_by_Carlos_Huante_-_FB2.jpg",
+    "wiki": "https://harrypotter.fandom.com/wiki/Big-horn_sheep"
+  },
+  {
+    "id": "billywig",
+    "slug": "billywig",
+    "name": "Billywig",
+    "summary": "The Billywig was a magical insect native to Australia. It was rated XXX, and was around half an inch long and of a vivid sapphire blue colour. The speed of the Billywig may be why it was rarely noticed by Muggles, and wizards and witches often only spotted it once they had been stung.",
+    "classification": "XXX",
+    "native_to": "Australia",
+    "skin_color": "Bright blue",
+    "eye_color": "Grey",
+    "hair_color": null,
+    "feathers": null,
+    "height": "Half an inch",
+    "length": null,
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [
+      "Flies very fast",
+      "Wings atop head",
+      "Stinger causes levitation"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Billywig_FBCFWW.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Billywig"
+  },
+  {
+    "id": "blast-ended-skrewt",
+    "slug": "blast-ended-skrewt",
+    "name": "Blast-Ended Skrewt",
+    "summary": "The Blast-Ended Skrewt was a magical hybrid beast bred by Rubeus Hagrid in the autumn of 1994 by cross-breeding Manticores and Fire Crabs. Whether Hagrid used magic or somehow got the two different species to mate remains unknown.",
+    "classification": null,
+    "native_to": "Hogwarts Castle",
+    "skin_color": "Pale",
+    "eye_color": "None",
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": "10 ft",
+    "wingspan": null,
+    "related_to": [
+      "Fire Crab",
+      "Manticore"
+    ],
+    "distinctions": [
+      "Resemble pale, slimy, deformed shell-less lobsters or scorpions",
+      "Covered in grey, shiny armour",
+      "Males have stingers, females have suckers to suck blood",
+      "Aggressive temperament and repulsive appearance",
+      "Shoot fire from their rear end"
+    ],
+    "affiliation": [
+      "Rubeus Hagrid"
+    ],
+    "status": "Unknown, possibly extinct",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Blast-Ended_Skrewt_PM.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Blast-Ended_Skrewt"
+  },
+  {
+    "id": "bowtruckle",
+    "slug": "bowtruckle",
+    "name": "Bowtruckle",
+    "summary": "The Bowtruckle was a hand-sized, insect-eating, tree dwelling magical beast with long sharp fingers (two on each hand), brown eyes, and a general appearance of a flat-faced stick figure made of bark and twigs, which served well as camouflage in its natural habitat.",
+    "classification": "XX",
+    "native_to": "Western England, Southern Germany, Scandinavia",
+    "skin_color": "Green",
+    "eye_color": "Brown",
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [
+      "Resemble trees",
+      "Tree-dwelling",
+      "Eats insects"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Bowtruckle.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Bowtruckle"
+  },
+  {
+    "id": "bundimun",
+    "slug": "bundimun",
+    "name": "Bundimun",
+    "summary": "It was a greenish, many-eyed pest that fed on dirt. The creature crept under floorboards and behind skirting boards, infesting houses. Their presence was indicated by the foul stench of decay. The secretions of the Bundimun were extremely acidic and could rot building structures. A large enough infestation could cause a building to collapse as the foundations were rotted away. Scouring Charms could clear out small infestations, but large colonies needed to be dealt with by the Department for the Regulation and Control of Magical Creatures (Pest Sub-Division). Bundimuns spat out its acidic ooze when annoyed, but when diluted, were used in some magical cleaning solutions.",
+    "classification": "XXX",
+    "native_to": "Worldwide",
+    "skin_color": "Green",
+    "eye_color": "Yellow",
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [
+      "Resembles fungus",
+      "Has many eyes",
+      "Acidic secretion, capable of rotting building structures"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Bundimun.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Bundimun"
+  },
+  {
+    "id": "caipora",
+    "slug": "caipora",
+    "name": "Caipora",
+    "summary": "The Caipora were small and furry spirit-beings who were extraordinarily mischievous. Native to the Amazon rainforest, they protected the grounds of Castelobruxo wizarding school, emerging under cover of night to watch over the students and the creatures that live in the forest.",
+    "classification": null,
+    "native_to": "Amazon rainforest, Brazil",
+    "skin_color": "Green",
+    "eye_color": "Red",
+    "hair_color": "Red",
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [
+      "Extraordinarily mischievous nature",
+      "Protect the grounds of Castelobruxo at night"
+    ],
+    "affiliation": [
+      "Castelobruxo"
+    ],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Caipora.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Caipora"
+  },
+  {
+    "id": "catfish",
+    "slug": "catfish",
+    "name": "Catfish",
+    "summary": "The catfish was a magical fish, possibly a hybrid between a cat and a fish. Its slender body and long tail were similar to those of a fish, and it had four legs with webbed feet suitable for swimming. Its head was flattened and it had long whiskers and a mouth with sharp teeth.",
+    "classification": null,
+    "native_to": null,
+    "skin_color": null,
+    "eye_color": null,
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [
+      "Cat",
+      "Fish"
+    ],
+    "distinctions": [
+      "Possibly a hybrid between a cat and a fish",
+      "Has four legs with webbed feet",
+      "Flat head with long whiskers"
+    ],
+    "affiliation": [],
+    "status": "Extant (likely)",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Catfish_concept_by_Carlos_Huante_-_FB2.jpg",
+    "wiki": "https://harrypotter.fandom.com/wiki/Catfish"
+  },
+  {
+    "id": "catoblepas",
+    "slug": "catoblepas",
+    "name": "Catoblepas",
+    "summary": "A Catoblepas was a bull-like magical beast which had two sharp tusks and a pair of long curled horns. It likely lived in a shallow swamp.",
+    "classification": null,
+    "native_to": null,
+    "skin_color": null,
+    "eye_color": null,
+    "hair_color": "Brown",
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [
+      "Long curled horns",
+      "Sharp tusks",
+      "Resembled cattle"
+    ],
+    "affiliation": [],
+    "status": null,
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Catoblepas_concept_art_made_by_Jama_Jurabaev.jpg",
+    "wiki": "https://harrypotter.fandom.com/wiki/Catoblepas"
+  },
+  {
+    "id": "centaur",
+    "slug": "centaur",
+    "name": "Centaur",
+    "summary": "A centaur was a magical creature whose head, torso, and arms appeared to be human and were joined to a horse's lower body. They were, however, their own individual species, and thus were not half-breeds. They also had a rich history and were known for being naturally talented in archery, healing magic, divination and astronomy.",
+    "classification": "XXXX",
+    "native_to": "Europe, including, Greece, Great Britain, Croatia",
+    "skin_color": "Varies",
+    "eye_color": "Varies",
+    "hair_color": "Varies",
+    "feathers": null,
+    "height": "Above seven feet",
+    "length": null,
+    "wingspan": null,
+    "related_to": [
+      "Humans",
+      "Horses"
+    ],
+    "distinctions": [
+      "Lower torso is a horse's body",
+      "Higher torso is a human's body",
+      "Capable of human intelligence and speech",
+      "Skilled in Astronomy, Healing magic and Divination"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Centaur_Pottermore.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Centaur"
+  },
+  {
+    "id": "chimaera",
+    "slug": "chimaera",
+    "name": "Chimaera",
+    "summary": "The Chimaera was a type of hybrid animal and a violent magical beast native to Greece. It had a lion's head, a goat's body and a dragon's tail. Chimaeras were known for their vicious and bloodthirsty behaviour.",
+    "classification": "XXXXX",
+    "native_to": "Greece",
+    "skin_color": null,
+    "eye_color": "White",
+    "hair_color": "Golden",
+    "feathers": null,
+    "height": "Large",
+    "length": null,
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [
+      "Head of a lion",
+      "Body of a goat",
+      "Tail of a dragon",
+      "Extremely violent and dangerous"
+    ],
+    "affiliation": [],
+    "status": "Extant (rare)",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Chimaera.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Chimaera"
+  },
+  {
+    "id": "chizpurfle",
+    "slug": "chizpurfle",
+    "name": "Chizpurfle",
+    "summary": "The Chizpurfle was a type of very small magical parasite. Crab-like in appearance, this beast could grow up to a twentieth of an inch including its fangs. They were attracted to sources of magic and were commonly found in the fur and feathers of Crups and Augureys, respectively. The carapaces and fangs of the Chizpurfle were used in potion-making.",
+    "classification": "XX",
+    "native_to": "Worldwide",
+    "skin_color": "Brown with green pincers",
+    "eye_color": "Black",
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": "Up to a twentieth of an inch (with fangs)",
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [
+      "Attacks magical and electrical objects",
+      "Resembles crab"
+    ],
+    "affiliation": [
+      "Crups",
+      "Augureys",
+      "Magic and electricity"
+    ],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Chizpurfle.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Chizpurfle"
+  },
+  {
+    "id": "chupacabra",
+    "slug": "chupacabra",
+    "name": "Chupacabra",
+    "summary": "The Chupacabra was a part-lizard, part-homunculus, blood-sucking magical beast which was native to North America and most likely South America.",
+    "classification": null,
+    "native_to": "North America, South America",
+    "skin_color": "Blue and red",
+    "eye_color": null,
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [
+      "Blood consuming"
+    ],
+    "affiliation": [
+      "Dark Arts"
+    ],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Chupacabra_COGC.jpeg",
+    "wiki": "https://harrypotter.fandom.com/wiki/Chupacabra"
+  },
+  {
+    "id": "crup",
+    "slug": "crup",
+    "name": "Crup",
+    "summary": "A Crup was a wizard-bred dog that originated in the southeast of England.",
+    "classification": "XXX",
+    "native_to": "England",
+    "skin_color": null,
+    "eye_color": null,
+    "hair_color": "White and brown",
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [
+      "Dog"
+    ],
+    "distinctions": [
+      "Resembles the Jack Russell terrier",
+      "Forked Tail",
+      "Fiercely loyal towards wizards",
+      "Hostile towards Muggles and Squibs",
+      "Skilful scavengers"
+    ],
+    "affiliation": [
+      "Wizardkind"
+    ],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Crup.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Crup"
+  },
+  {
+    "id": "demiguise",
+    "slug": "demiguise",
+    "name": "Demiguise",
+    "summary": "The Demiguise was a peaceful, herbivorous magical beast that could turn itself invisible and see the future, both abilities which made it very sought-after. However, it was difficult to catch and could give a nasty nip if provoked.",
+    "classification": "XXXX",
+    "native_to": "Far East",
+    "skin_color": "Beige",
+    "eye_color": "Black, Blue when predicting future",
+    "hair_color": "Silver",
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [
+      "Hidebehind"
+    ],
+    "distinctions": [
+      "Could become invisible",
+      "Precognitive sight",
+      "Peaceful temperament",
+      "Herbivorous"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Demiguise_FBC.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Demiguise"
+  },
+  {
+    "id": "diricawl",
+    "slug": "diricawl",
+    "name": "Diricawl",
+    "summary": "The Diricawl (known to Muggles as the Dodo) was a plump, fluffy-feathered and flightless magical bird, native to the island of Mauritius in the Indian Ocean. It was capable of disappearing and reappearing elsewhere, except when under the effects of Levioso. Diricawl eggs were green in colour.",
+    "classification": "XX",
+    "native_to": "Mauritius, Indian Ocean",
+    "skin_color": null,
+    "eye_color": null,
+    "hair_color": null,
+    "feathers": "Bluish-pink",
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [
+      "Birds"
+    ],
+    "distinctions": [
+      "Apparated at will",
+      "Flightless"
+    ],
+    "affiliation": [],
+    "status": "Extant, Believed extinct by Muggles",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Diricawl.jpg",
+    "wiki": "https://harrypotter.fandom.com/wiki/Diricawl"
+  },
+  {
+    "id": "domestic-beast",
+    "slug": "domestic-beast",
+    "name": "Domestic beast",
+    "summary": "There was a domestic creature that looked like a sloth with a tortoise shell. It was used as a table in wizards‘ and witches’ houses.",
+    "classification": null,
+    "native_to": null,
+    "skin_color": null,
+    "eye_color": null,
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [
+      "Hybrid between sloth and tortoise (possibly)"
+    ],
+    "affiliation": [
+      "Wizardkind"
+    ],
+    "status": "Extant (likely)",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Domestic_beast_idea_by_Ben_Kovar_FB_(cropped).png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Domestic_beast"
+  },
+  {
+    "id": "double-ended-newt",
+    "slug": "double-ended-newt",
+    "name": "Double-ended newt",
+    "summary": "The double-ended newt was a magical beast consisting of two newts sharing the same body. They tended to swim around a lot and preferred to eat algae. Double-ended newts were often kept as pets by wizards and witches, and could be purchased from the Magical Menagerie in Diagon Alley.",
+    "classification": null,
+    "native_to": null,
+    "skin_color": "Green",
+    "eye_color": "Yellow",
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [
+      "Newt"
+    ],
+    "distinctions": [
+      "Two heads"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Double-ended_Newt.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Double-ended_newt"
+  },
+  {
+    "id": "doxy",
+    "slug": "doxy",
+    "name": "Doxy",
+    "summary": "The Doxy, sometimes referred to as the Biting Fairy, was a small fairy-like magical beast, sometimes mistaken for a fairy. Preferring cold climates, the Doxy was found throughout Northern Europe and North America.",
+    "classification": "XXX",
+    "native_to": "North America, Northern Europe",
+    "skin_color": "Purple, Brown",
+    "eye_color": null,
+    "hair_color": "Black",
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [
+      "Fairy (possibly)",
+      "Pixies (possibly)"
+    ],
+    "distinctions": [
+      "Two sets of limbs",
+      "Beetle-like wings",
+      "Two rows of venomous teeth",
+      "Common household pests"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Doxy_concept_art.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Doxy"
+  },
+  {
+    "id": "dragon",
+    "slug": "dragon",
+    "name": "Dragon",
+    "summary": "Dragons were giant winged, fire-breathing reptilian beasts. Widely regarded as terrifying yet awe-inspiring, they could be found all over the world and were frequently referred to in Asian and medieval European folklore. Able to fly and breathe fire through their nostrils and mouths, they were one of the most dangerous and hardest to conceal creatures in the wizarding world.",
+    "classification": "XXXXX",
+    "native_to": "Worldwide",
+    "skin_color": "Varied by breed",
+    "eye_color": "Varied by breed",
+    "hair_color": null,
+    "feathers": null,
+    "height": "Varied by breed",
+    "length": "Varied by breed",
+    "wingspan": "Varied by breed",
+    "related_to": [],
+    "distinctions": [],
+    "affiliation": [
+      "Romanian Dragon Sanctuary",
+      "Chinese Dragon Sanctuary",
+      "Swedish dragon reservation",
+      "Dragon reserves"
+    ],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/B7C27_Ironbelly.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Dragon"
+  },
+  {
+    "id": "dragon-shark",
+    "slug": "dragon-shark",
+    "name": "Dragon Shark",
+    "summary": "A Dragon Shark was a massive shark-like creature that sheltered in the deep ocean.",
+    "classification": null,
+    "native_to": "Deep oceans",
+    "skin_color": null,
+    "eye_color": null,
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [],
+    "affiliation": [],
+    "status": null,
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Deep_Sea_Creatures_concept_art_made_by_Carlos_Huante.jpg",
+    "wiki": "https://harrypotter.fandom.com/wiki/Dragon_Shark"
+  },
+  {
+    "id": "drake-creature",
+    "slug": "drake-creature",
+    "name": "Drake (creature)",
+    "summary": "A Drake was a magical beast with a large quadruped, reptilian body, resembling a wingless dragon or a massive lizard.",
+    "classification": null,
+    "native_to": null,
+    "skin_color": "Green",
+    "eye_color": null,
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [
+      "Dragon",
+      "Lizard"
+    ],
+    "distinctions": [
+      "Large reptile"
+    ],
+    "affiliation": [],
+    "status": null,
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Drake_concept_art_by_Carlos_Huante.jpg",
+    "wiki": "https://harrypotter.fandom.com/wiki/Drake_(creature)"
+  },
+  {
+    "id": "dugbog",
+    "slug": "dugbog",
+    "name": "Dugbog",
+    "summary": "The Dugbog was a marsh-dwelling magical beast found in Europe and the Americas. Known variations included the Cottongrass, Stoneback, and Great Spined Dugbogs.",
+    "classification": "XXX",
+    "native_to": "North America, South America, Europe",
+    "skin_color": "Dark green",
+    "eye_color": "Light green",
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [
+      "Resembled dead wood",
+      "Finned paws",
+      "Sharp teeth",
+      "Omnivorous"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Dugbog_HPTV.jpeg",
+    "wiki": "https://harrypotter.fandom.com/wiki/Dugbog"
+  },
+  {
+    "id": "erkling",
+    "slug": "erkling",
+    "name": "Erkling",
+    "summary": "Erklings were elfish magical beasts, three feet tall on average (making them larger than gnomes) with pointed faces, which had a particular affinity for the taste of children.",
+    "classification": "XXXX",
+    "native_to": "Black Forest and Bavaria, Germany",
+    "skin_color": "Brown",
+    "eye_color": "Yellow",
+    "hair_color": null,
+    "feathers": null,
+    "height": "3 feet",
+    "length": null,
+    "wingspan": null,
+    "related_to": [
+      "House-elves (possibly)"
+    ],
+    "distinctions": [
+      "Feed upon human children",
+      "Shoot darts",
+      "High pitch cackles to lure children"
+    ],
+    "affiliation": [],
+    "status": "Extant, but heavily controlled",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Erkling.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Erkling"
+  },
+  {
+    "id": "erumpent",
+    "slug": "erumpent",
+    "name": "Erumpent",
+    "summary": "It resembled a rhinoceros with a roundish body. It was a powerful creature, with a thick hide capable of repelling most curses and charms, a single long horn, and a thick tail. They were treated with great caution and respect by African wizards and witches. Male Erumpents produced musk.",
+    "classification": "XXXX",
+    "native_to": "Africa",
+    "skin_color": "Black",
+    "eye_color": null,
+    "hair_color": null,
+    "feathers": null,
+    "height": "Medium sized (females could reach five times the size of a non-magical hippopotamus)",
+    "length": null,
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [
+      "Explosive horn"
+    ],
+    "affiliation": [],
+    "status": "Extant in small numbers",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Erumpent_Concept_Art_FB1.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Erumpent"
+  },
+  {
+    "id": "fairy",
+    "slug": "fairy",
+    "name": "Fairy",
+    "summary": "A fairy was a small, humanoid magical beast with large insect-like wings, which were either transparent or multi-coloured. Muggles' impression of the fairy was a generous one, having been ingrained into children's minds in the form of \"fairy tales\". Wizards believed that, of all the magical creatures in the world, the fairy, along with the unicorn, had received the best Muggle \"press\".",
+    "classification": "XX",
+    "native_to": "Existing worldwide, Tír na nÓg",
+    "skin_color": "Varies",
+    "eye_color": "Varies",
+    "hair_color": "Varies",
+    "feathers": null,
+    "height": "1-5 inches",
+    "length": null,
+    "wingspan": null,
+    "related_to": [
+      "Pixie",
+      "Doxy"
+    ],
+    "distinctions": [
+      "Very small diminutive humanoid with insect-like wings",
+      "Possessed weak magic",
+      "Vain natures"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Fairy.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Fairy"
+  },
+  {
+    "id": "fighting-creature",
+    "slug": "fighting-creature",
+    "name": "Fighting creature",
+    "summary": "The fighting creature was a bipedal magical creature with thick skin like a rhinoceros and a shield-shaped horn on its forehead. They had a habit of fighting among their own kind for ecological reasons.",
+    "classification": null,
+    "native_to": null,
+    "skin_color": null,
+    "eye_color": "White",
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [
+      "Rhino-like skin",
+      "Shield-shaped horm",
+      "Fighting habits"
+    ],
+    "affiliation": [],
+    "status": "Extant (likely)",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Fighting_creature_design_by_Ben_Kovar_FB.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Fighting_creature"
+  },
+  {
+    "id": "fire-crab",
+    "slug": "fire-crab",
+    "name": "Fire Crab",
+    "summary": "The Fire Crab was a large, tortoise-like crab magical beast native to the island of Fiji. Different Fire Crab variants existed which could be identified by the jewels in their shells. Noted variants included shells fitted with rubies, sapphires, and emeralds.",
+    "classification": "XXX",
+    "native_to": "Fiji",
+    "skin_color": "Grey",
+    "eye_color": "Black",
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [
+      "Blast-Ended Skrewt"
+    ],
+    "distinctions": [
+      "Jewelled shell which is extremely valuable",
+      "Shoots flames from rear end"
+    ],
+    "affiliation": [
+      "Fire"
+    ],
+    "status": "Endangered",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Fire_Crab.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Fire_Crab"
+  },
+  {
+    "id": "fire-dwelling-salamander",
+    "slug": "fire-dwelling-salamander",
+    "name": "Fire Dwelling Salamander",
+    "summary": "Fire Dwelling Salamanders, also called Fire Salamanders, or just simply Salamanders, were small, magical fire dwelling lizards that fed on flames. It was a possible corporeal form of the Patronus Charm.",
+    "classification": "XXX",
+    "native_to": "Existing worldwide",
+    "skin_color": "Scarlet red",
+    "eye_color": "Black",
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [
+      "Amazonian Salamanders",
+      "Peruvian Salamanders",
+      "Frost Salamanders"
+    ],
+    "distinctions": [
+      "Typically on fire",
+      "Dwell in Salamander fire"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/SalamanderWU.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Fire_Dwelling_Salamander"
+  },
+  {
+    "id": "firedrake",
+    "slug": "firedrake",
+    "name": "Firedrake",
+    "summary": "A Firedrake was a small magical flying lizard, of which several were kept by the Circus Arcanus in 1927.",
+    "classification": null,
+    "native_to": null,
+    "skin_color": "Yellow/Black",
+    "eye_color": null,
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [
+      "Lizard"
+    ],
+    "distinctions": [
+      "Capable of flight",
+      "Shoots sparks of fire from tail"
+    ],
+    "affiliation": [
+      "Fire"
+    ],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/FiredrakeFinalConcept.jpg",
+    "wiki": "https://harrypotter.fandom.com/wiki/Firedrake"
+  },
+  {
+    "id": "flobberworm",
+    "slug": "flobberworm",
+    "name": "Flobberworm",
+    "summary": "The Flobberworm was a herbivorous, ten-inch, toothless brown magical worm which ate mainly lettuce and cabbage. It was not considered a particularly interesting creature, with a Ministry of Magic Classification of X, or \"boring\", which was the lowest possible rank.",
+    "classification": "X",
+    "native_to": null,
+    "skin_color": "Brown, Red, Blue",
+    "eye_color": null,
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": "Ten inches",
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [
+      "Herbivorous",
+      "Mouths on both sides",
+      "Toothless",
+      "Produces mucus"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Flobberworms.jpeg",
+    "wiki": "https://harrypotter.fandom.com/wiki/Flobberworm"
+  },
+  {
+    "id": "forest-raco",
+    "slug": "forest-raco",
+    "name": "Forest Raco",
+    "summary": "Forest Racos were creatures that sheltered in a forest during the early 20th century. They had two long legs and feet, which resembled the claw of birds or dinosaurs.",
+    "classification": null,
+    "native_to": null,
+    "skin_color": null,
+    "eye_color": null,
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [],
+    "affiliation": [],
+    "status": null,
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Forest_Racos.jpeg",
+    "wiki": "https://harrypotter.fandom.com/wiki/Forest_Raco"
+  },
+  {
+    "id": "fwooper",
+    "slug": "fwooper",
+    "name": "Fwooper",
+    "summary": "The Fwooper was a magical African bird with brightly-coloured feathers, which could include orange, pink, lime green, and yellow.",
+    "classification": "XXX",
+    "native_to": "Africa",
+    "skin_color": null,
+    "eye_color": "Yellow",
+    "hair_color": null,
+    "feathers": "Brightly coloured, Orange, Pink, Lime green, Yellow",
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [
+      "Song causes insanity"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Fwooper_concept_art.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Fwooper"
+  },
+  {
+    "id": "ghoul",
+    "slug": "ghoul",
+    "name": "Ghoul",
+    "summary": "A ghoul was a magical beast that resembled a slimy, buck-toothed ogre.",
+    "classification": "XX",
+    "native_to": null,
+    "skin_color": "Greyish green",
+    "eye_color": "Green",
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [
+      "Hidebehind",
+      "Chameleon Ghoul"
+    ],
+    "distinctions": [
+      "Slimy",
+      "Buck-toothed",
+      "Ugly",
+      "Humanoid",
+      "Generally harmless",
+      "Resembles Ogres"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/IconGhoulHM.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Ghoul"
+  },
+  {
+    "id": "giant-dung-beetle",
+    "slug": "giant-dung-beetle",
+    "name": "Giant Dung Beetle",
+    "summary": "It is mostly unknown how it was different from its non-magical cousin. However, it was significantly larger and could use the three large horns on its head to carry balls of dung instead of rolling them, an action which it could still perform.",
+    "classification": null,
+    "native_to": null,
+    "skin_color": "Bronze and yellow",
+    "eye_color": null,
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [
+      "Dung beetle"
+    ],
+    "distinctions": [
+      "Giant size",
+      "Horned head",
+      "Roll around balls of dung with its horns"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Framestore-art-department-beetle.jpg",
+    "wiki": "https://harrypotter.fandom.com/wiki/Giant_Dung_Beetle"
+  },
+  {
+    "id": "giant-hairy-slug-elk",
+    "slug": "giant-hairy-slug-elk",
+    "name": "Giant hairy slug elk",
+    "summary": "A giant hairy slug elk was a magical creature that existed during the early 20th century.",
+    "classification": null,
+    "native_to": null,
+    "skin_color": null,
+    "eye_color": null,
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [],
+    "affiliation": [],
+    "status": null,
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Giant_hairy_slug_elk.jpeg",
+    "wiki": "https://harrypotter.fandom.com/wiki/Giant_hairy_slug_elk"
+  },
+  {
+    "id": "giant-purple-toad",
+    "slug": "giant-purple-toad",
+    "name": "Giant Purple Toad",
+    "summary": "The Giant Purple Toad, also known as the Bullfrog, was a large, magical species of toad that produced warts useful in potion-making. It was described as having \"thick, dark skin\".",
+    "classification": null,
+    "native_to": null,
+    "skin_color": "Purple",
+    "eye_color": "Black, Yellow, Orange",
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [
+      "Toad"
+    ],
+    "distinctions": [
+      "Thick, warted skin",
+      "Green tongue",
+      "Large in size"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Purple_toad_HL.jpeg",
+    "wiki": "https://harrypotter.fandom.com/wiki/Giant_Purple_Toad"
+  },
+  {
+    "id": "giant-rabbit",
+    "slug": "giant-rabbit",
+    "name": "Giant rabbit",
+    "summary": "A giant rabbit was a magical species of rabbit distinguished by its giant size.",
+    "classification": null,
+    "native_to": null,
+    "skin_color": null,
+    "eye_color": null,
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [
+      "Rabbit"
+    ],
+    "distinctions": [
+      "Giant size"
+    ],
+    "affiliation": [],
+    "status": "Extant (likely)",
+    "image": null,
+    "wiki": "https://harrypotter.fandom.com/wiki/Giant_rabbit"
+  },
+  {
+    "id": "giant-silk-spitting-spider",
+    "slug": "giant-silk-spitting-spider",
+    "name": "Giant Silk-Spitting spider",
+    "summary": "The Giant Silk-Spitting spider was a magical variety of spider capable of spitting silk. It had a high attack range from its sticky webs, trapping and incapacitating its prey.",
+    "classification": null,
+    "native_to": null,
+    "skin_color": "Purple",
+    "eye_color": "Red",
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [
+      "Spider"
+    ],
+    "distinctions": [
+      "Silk-spitting"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Giant_Silk-Spitting_Spider_MA.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Giant_Silk-Spitting_spider"
+  },
+  {
+    "id": "giant-squid",
+    "slug": "giant-squid",
+    "name": "Giant Squid",
+    "summary": "The Giant Squid was a gigantic cephalopod, with eight arms and two long tentacles. They ate crustaceans and toast, and required a nest for safety, or they could become aggressive. Hogwarts Library had books on Giant Squid domestication.",
+    "classification": null,
+    "native_to": "Great Lake, Scotland",
+    "skin_color": "Blood red or purple",
+    "eye_color": "Yellow",
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [
+      "Enormous with lots of tentacles"
+    ],
+    "affiliation": [
+      "Black Lake",
+      "Magical Creatures Reserve"
+    ],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Giant_Squid.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Giant_Squid"
+  },
+  {
+    "id": "giant-venomous-spider",
+    "slug": "giant-venomous-spider",
+    "name": "Giant Venomous spider",
+    "summary": "The Giant Venomous spider was a magical variety of spider that was difficult to fight and could spit venom from a distance.",
+    "classification": null,
+    "native_to": null,
+    "skin_color": "Green",
+    "eye_color": "Green",
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [
+      "Spider"
+    ],
+    "distinctions": [
+      "Highly venomous"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Giant_Venomous_Spider_MA.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Giant_Venomous_spider"
+  },
+  {
+    "id": "gigantic-jellyfish",
+    "slug": "gigantic-jellyfish",
+    "name": "Gigantic jellyfish",
+    "summary": "There were a certain amount of gigantic jellyfish living in the depths of the Great Lake during the early 21st century.",
+    "classification": null,
+    "native_to": "Scotland",
+    "skin_color": "Blue and purple",
+    "eye_color": null,
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [
+      "Jellyfish"
+    ],
+    "distinctions": [],
+    "affiliation": [
+      "Great Lake"
+    ],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Gigantic_jellyfish_MA.jpeg",
+    "wiki": "https://harrypotter.fandom.com/wiki/Gigantic_jellyfish"
+  },
+  {
+    "id": "glow-bug",
+    "slug": "glow-bug",
+    "name": "Glow Bug",
+    "summary": "Glow Bugs possessed a light organ called a \"blinker\", which allowed them to produce repeated, bright flashes. While these flashes were usually random, certain patterns could be used to convey information between individuals. Glow Bugs were intelligent enough to communicate with humans through these flashes, ceasing their light if a human successfully interpreted the message they were trying to send. However, their glow could also attract predators, as some fish species were highly sensitive to a Glow Bug's light. For this reason, Glow Bugs were sometimes used as bait by wizarding fishers.",
+    "classification": null,
+    "native_to": null,
+    "skin_color": "Translucent/Luminescent",
+    "eye_color": "White, glowing",
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [
+      "Worm"
+    ],
+    "distinctions": [
+      "Luminescent"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Lightbulb_Worm.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Glow_Bug"
+  },
+  {
+    "id": "glumbumble",
+    "slug": "glumbumble",
+    "name": "Glumbumble",
+    "summary": "The Glumbumble was a magical grey, furry, flying insect which was native to Northern Europe.",
+    "classification": "XXX",
+    "native_to": "Northern Europe",
+    "skin_color": "Grey",
+    "eye_color": "Black",
+    "hair_color": "Black",
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [
+      "Produces a treacle",
+      "Infests beehives"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Glumbumble_HM_icon.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Glumbumble"
+  },
+  {
+    "id": "gnome",
+    "slug": "gnome",
+    "name": "Gnome",
+    "summary": "A gnome, or garden gnome, was a small magical beast commonly known to infest the gardens of wizarding households. The correct taxonomic name for gnomes was, purportedly, Gernumbli gardensi; they were sometimes referred to as Gernumblies. They were found throughout northern Europe and North America.",
+    "classification": "XX",
+    "native_to": "Europe, North America",
+    "skin_color": "Brown",
+    "eye_color": null,
+    "hair_color": null,
+    "feathers": null,
+    "height": "1 ft. (max.)",
+    "length": null,
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [
+      "Potato-like heads",
+      "Sharp biting teeth",
+      "Harmless nature",
+      "Tended to infest gardens",
+      "Feasted on vegetation and worms",
+      "Quick breeders"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Gnome_FB_IE.jpg",
+    "wiki": "https://harrypotter.fandom.com/wiki/Gnome"
+  },
+  {
+    "id": "goblin-jellies",
+    "slug": "goblin-jellies",
+    "name": "Goblin Jellies",
+    "summary": "Goblin Jellies were jellyfish-like creature that sheltered in the deep ocean.",
+    "classification": null,
+    "native_to": "Deep oceans",
+    "skin_color": null,
+    "eye_color": null,
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [],
+    "affiliation": [],
+    "status": null,
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Deep_Sea_Creatures_concept_art_made_by_Carlos_Huante.jpg",
+    "wiki": "https://harrypotter.fandom.com/wiki/Goblin_Jellies"
+  },
+  {
+    "id": "goblin-vampire-squid",
+    "slug": "goblin-vampire-squid",
+    "name": "Goblin Vampire squid",
+    "summary": "A Goblin Vampire squid was a squid-like creature that sheltered in the deep ocean.",
+    "classification": null,
+    "native_to": "Deep oceans",
+    "skin_color": null,
+    "eye_color": null,
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [],
+    "affiliation": [],
+    "status": null,
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Deep_Sea_Creatures_concept_art_made_by_Carlos_Huante.jpg",
+    "wiki": "https://harrypotter.fandom.com/wiki/Goblin_Vampire_squid"
+  },
+  {
+    "id": "golden-snidget",
+    "slug": "golden-snidget",
+    "name": "Golden Snidget",
+    "summary": "The Golden Snidget was a small golden magical bird with fully rotational wings, best known for early use in the wizarding game of Quidditch, eventually being replaced by the Golden Snitch.",
+    "classification": "XXXX",
+    "native_to": "Northern Europe",
+    "skin_color": null,
+    "eye_color": "Red",
+    "hair_color": null,
+    "feathers": "Golden",
+    "height": "Smaller than 1'",
+    "length": null,
+    "wingspan": null,
+    "related_to": [
+      "Birds"
+    ],
+    "distinctions": [
+      "360° rotation wings",
+      "Originally used in Quidditch"
+    ],
+    "affiliation": [
+      "Quidditch (formerly)"
+    ],
+    "status": "Endangered",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Golden_Snidget_HL.jpeg",
+    "wiki": "https://harrypotter.fandom.com/wiki/Golden_Snidget"
+  },
+  {
+    "id": "gorilla-like-creature",
+    "slug": "gorilla-like-creature",
+    "name": "Gorilla-like creature",
+    "summary": "This creature had a gorilla-like appearance, with its body covered in hair, except for its face. It used its six legs to walk and was twice the height of a human.",
+    "classification": null,
+    "native_to": null,
+    "skin_color": null,
+    "eye_color": null,
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [
+      "Gorilla-like appearance",
+      "Has six legs"
+    ],
+    "affiliation": [],
+    "status": "Extant (likely)",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Beast_concept_by_Ben_Kovar_FB.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Gorilla-like_creature"
+  },
+  {
+    "id": "graphorn",
+    "slug": "graphorn",
+    "name": "Graphorn",
+    "summary": "The Graphorn was a dangerous and aggressive magical beast native to the mountains of Europe.",
+    "classification": "XXXX",
+    "native_to": "Mountains of Europe",
+    "skin_color": "Greyish-purple",
+    "eye_color": null,
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [
+      "Two gold horns",
+      "Humped back",
+      "Four toes on each foot",
+      "Repels most spells",
+      "Aggressive and dangerous nature"
+    ],
+    "affiliation": [
+      "Trolls"
+    ],
+    "status": "Endangered (1920s), Extant (2020s)",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Graphorn.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Graphorn"
+  },
+  {
+    "id": "griffin",
+    "slug": "griffin",
+    "name": "Griffin",
+    "summary": "The Griffin was a magical beast which originated from Greece.",
+    "classification": "XXXX",
+    "native_to": "Greece",
+    "skin_color": null,
+    "eye_color": "Yellow",
+    "hair_color": "Brownish-yellow",
+    "feathers": "White and brown",
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [
+      "Hippogriff"
+    ],
+    "distinctions": [
+      "Front half of a giant eagle",
+      "Rear half of a lion",
+      "Capable of Flight"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Griffin.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Griffin"
+  },
+  {
+    "id": "grindylow",
+    "slug": "grindylow",
+    "name": "Grindylow",
+    "summary": "A Grindylow was a small, horned, pale-green skinned water demon native to Great Britain and Ireland. The Grindylow was of a sickly green colour, with green teeth and small pointy horns on its head. It had long, strong (albeit brittle) fingers which it used to strangle its prey, and was a rather good swimmer, since it was adapted to live in water.",
+    "classification": "XX",
+    "native_to": "Great Britain, Ireland",
+    "skin_color": "Sickly green",
+    "eye_color": "Yellow, White, Green",
+    "hair_color": null,
+    "feathers": null,
+    "height": "Less than 5 feet",
+    "length": null,
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [
+      "Horned",
+      "Aggressive nature",
+      "Inhabit water",
+      "Carnivorous"
+    ],
+    "affiliation": [
+      "Merpeople",
+      "Dark Arts"
+    ],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Grindylow_FBCFTWW.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Grindylow"
+  },
+  {
+    "id": "gytrash",
+    "slug": "gytrash",
+    "name": "Gytrash",
+    "summary": "The Gytrash was a large, dog-like spirit with a forked tail. This fast and dangerous brute ran wild throughout the woodlands of Great Britain, such as in the Forbidden Forest of Scotland and the New Forest in England, either singly or in groups.",
+    "classification": null,
+    "native_to": "Woodlands of Great Britain",
+    "skin_color": "White",
+    "eye_color": "Black",
+    "hair_color": "White",
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [
+      "Dog"
+    ],
+    "distinctions": [
+      "Dog-like in appearance",
+      "Forked tail",
+      "Aggressive towards humans",
+      "Retreats from wand light"
+    ],
+    "affiliation": [
+      "Dark Arts"
+    ],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Gytrash_Artwork_CoS_PS1.jpeg",
+    "wiki": "https://harrypotter.fandom.com/wiki/Gytrash"
+  },
+  {
+    "id": "hidebehind",
+    "slug": "hidebehind",
+    "name": "Hidebehind",
+    "summary": "The Hidebehind was a nocturnal, forest-dwelling, spectre-like beast that preyed on humanoid creatures, but a witch and Pukwudgie working together were able to defeat the creature. It could shift its shape, allowing it to hide behind almost any object. They did not exist naturally; they were only created by breeding a Demiguise and a ghoul. It was also featured in the revised edition of .",
+    "classification": "XXXX",
+    "native_to": "Massachusetts, United States of America, North America",
+    "skin_color": null,
+    "eye_color": null,
+    "hair_color": "Silver",
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [
+      "Demiguise",
+      "Ghoul"
+    ],
+    "distinctions": [
+      "Resembles a spectre",
+      "Nocturnal",
+      "Can turn invisible",
+      "Shapeshifting",
+      "Carnivorous; feeds on humans"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Hidebehind_FB-2017.jpeg",
+    "wiki": "https://harrypotter.fandom.com/wiki/Hidebehind"
+  },
+  {
+    "id": "hinkypunk",
+    "slug": "hinkypunk",
+    "name": "Hinkypunk",
+    "summary": "A Hinkypunk was a diminutive, one-legged magical beast with the appearance of wispy blue, grey or white smoke. It had a proclivity for luring travellers off of their paths at night, into treacherous bogs or wetlands under the guise of a helpful, lamp-bearing being.",
+    "classification": null,
+    "native_to": "Scotland",
+    "skin_color": null,
+    "eye_color": null,
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [
+      "Looks like smoke",
+      "Bears a lantern",
+      "Lures travellers into dangerous bogs",
+      "Turns solid when illuminated"
+    ],
+    "affiliation": [
+      "Dark Arts"
+    ],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Hinkypunk_PM.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Hinkypunk"
+  },
+  {
+    "id": "hippocampus",
+    "slug": "hippocampus",
+    "name": "Hippocampus",
+    "summary": "The Hippocampus (pl. Hippocampi or Hippocamps) was a magical water beast with the head and forequarters of a horse, and the tail and hindquarters of a giant fish. There was a constellation that seemingly depicted a Hippocampus.",
+    "classification": "XXX",
+    "native_to": "Greece",
+    "skin_color": "Blue, Red",
+    "eye_color": "Varies",
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [
+      "Horse's upper body",
+      "Fish's lower body",
+      "Lives in water"
+    ],
+    "affiliation": [
+      "Merpeople"
+    ],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Hippocampus_-_FBC.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Hippocampus"
+  },
+  {
+    "id": "hippogriff",
+    "slug": "hippogriff",
+    "name": "Hippogriff",
+    "summary": "A Hippogriff was a magical beast that had the front legs, wings, and head of a giant eagle and the body, hind legs and tail of a horse. It was very similar to another magical creature, the Griffin, with the horse rear replacing the lion rear.",
+    "classification": "XXX",
+    "native_to": "Europe",
+    "skin_color": null,
+    "eye_color": "Orange",
+    "hair_color": "Stormy grey, Chestnut, Bronze, Pinkish roan, Inky black",
+    "feathers": "Same as hair colour",
+    "height": "3 metres",
+    "length": null,
+    "wingspan": "10 metres",
+    "related_to": [
+      "Griffin"
+    ],
+    "distinctions": [
+      "Front half of a giant eagle",
+      "Rear half of a  horse",
+      "Capable of flight",
+      "Carnivorous"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Hippogrif_FBCFWW.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Hippogriff"
+  },
+  {
+    "id": "hodag",
+    "slug": "hodag",
+    "name": "Hodag",
+    "summary": "The Hodag was a magical, frog-headed beast that was known to exist in the New World. They tended to be drawn to Muggle farms and MACUSA's Department of No-Maj Misinformation worked hard to cover up its sightings.",
+    "classification": "XXX",
+    "native_to": "North America, mostly Wisconsin",
+    "skin_color": "Black",
+    "eye_color": "Red, glowing",
+    "hair_color": "Black and grey",
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [
+      "Frog-headed",
+      "Roughly the size of a large dog",
+      "Horned (horns have magical properties)",
+      "Inhabits Muggle farms",
+      "Feeds on Mooncalves"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Hodag.jpg",
+    "wiki": "https://harrypotter.fandom.com/wiki/Hodag"
+  },
+  {
+    "id": "horklump",
+    "slug": "horklump",
+    "name": "Horklump",
+    "summary": "The Horklump was a magical beast which resembled a fleshy pink mushroom covered in sparse, coarse black bristles. Despite its appearance, it was not a plant or fungus, but an animal.",
+    "classification": "X",
+    "native_to": "Scandinavia",
+    "skin_color": "Pink",
+    "eye_color": null,
+    "hair_color": "Black",
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [
+      "Resembled mushroom",
+      "Sparsely covered with bristles"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Horklump.jpg",
+    "wiki": "https://harrypotter.fandom.com/wiki/Horklump"
+  },
+  {
+    "id": "horned-serpent",
+    "slug": "horned-serpent",
+    "name": "Horned Serpent",
+    "summary": "The Horned Serpent was a magical snake found in several regions of the world, but was most common in North America. Ilvermorny School of Witchcraft and Wizardry founder Isolt Sayre befriended one of these serpents and named one of the four school houses after it.",
+    "classification": "XXXXX",
+    "native_to": "North America, Far East, Western Europe (formerly)",
+    "skin_color": "Black, Turquoise, Purple, Brown",
+    "eye_color": "Blue, Turquoise, Yellow",
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [
+      "Snake"
+    ],
+    "distinctions": [
+      "Fierce, but intelligent eyes",
+      "Emit a low musical note to sound danger",
+      "Jewelled forehead",
+      "Inhabits bodies of water"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Horned_Serpent.jpg",
+    "wiki": "https://harrypotter.fandom.com/wiki/Horned_Serpent"
+  },
+  {
+    "id": "imp",
+    "slug": "imp",
+    "name": "Imp",
+    "summary": "The imp was a magical beast found only in Great Britain and Ireland, notable for its sense of slapstick humour. Imps delighted in tripping and pushing anybody they could get their hands on, as well as lobbing Wizard Crackers and other small projectiles at anybody that they wished to torment.",
+    "classification": "XX",
+    "native_to": "Britain & Ireland",
+    "skin_color": "Grey",
+    "eye_color": "Yellow",
+    "hair_color": "Bald",
+    "feathers": null,
+    "height": "Six to eight inches",
+    "length": null,
+    "wingspan": null,
+    "related_to": [
+      "Pixie (most likely)"
+    ],
+    "distinctions": [
+      "Love of slapstick humour",
+      "Similar height to the Pixie",
+      "Eats insects"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Imp_HM_Icon.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Imp"
+  },
+  {
+    "id": "jackalope",
+    "slug": "jackalope",
+    "name": "Jackalope",
+    "summary": "The Jackalope was a North American magical beast that resembled a Jack Rabbit with antlers similar to that of a small antelope.",
+    "classification": null,
+    "native_to": "United States of America",
+    "skin_color": null,
+    "eye_color": "Brown",
+    "hair_color": "Brown",
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [
+      "Resembles a Jack Rabbit, with the antlers of an antelope"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Jackalope_HM.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Jackalope"
+  },
+  {
+    "id": "jarvey",
+    "slug": "jarvey",
+    "name": "Jarvey",
+    "summary": "The Jarvey was a magical beast which resembled an overgrown ferret in appearance, and was commonly found in Great Britain, Ireland, and North America.",
+    "classification": "XXX",
+    "native_to": "Great Britain, Ireland, North America",
+    "skin_color": null,
+    "eye_color": "Black",
+    "hair_color": "Brown",
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [
+      "Resembled an overgrown ferret",
+      "Capable of human speech",
+      "Long bushy tail",
+      "Sharp teeth",
+      "Predatory and carnivorous"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Jarvey.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Jarvey"
+  },
+  {
+    "id": "jobberknoll",
+    "slug": "jobberknoll",
+    "name": "Jobberknoll",
+    "summary": "The Jobberknoll never made any noise until the moment before it died. It would then release a long scream, which consisted of every sound it ever heard backwards.",
+    "classification": "XX",
+    "native_to": "Northern Europe, North America",
+    "skin_color": null,
+    "eye_color": "Black",
+    "hair_color": null,
+    "feathers": "Speckled blue",
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [
+      "Bird"
+    ],
+    "distinctions": [
+      "Screamed every sound it heard backwards before it died",
+      "Insect-based diet"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Jobberknoll.png%3C!---FBR_is_higher_canon_than_HL.---%3E",
+    "wiki": "https://harrypotter.fandom.com/wiki/Jobberknoll"
+  },
+  {
+    "id": "kappa",
+    "slug": "kappa",
+    "name": "Kappa",
+    "summary": "The Kappa was a Japanese water demon that fed on human blood. They were known for strangling humans that invaded their shallow ponds.",
+    "classification": "XXXX",
+    "native_to": "Japan",
+    "skin_color": "Scaly",
+    "eye_color": null,
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [
+      "Water-filled hollow on top of head",
+      "Feeds on human blood"
+    ],
+    "affiliation": [
+      "Dark Arts"
+    ],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Kappa_FBCOG.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Kappa"
+  },
+  {
+    "id": "knarl",
+    "slug": "knarl",
+    "name": "Knarl",
+    "summary": "The Knarl was a magical beast that greatly resembled a hedgehog in its physical appearance.",
+    "classification": "XXX",
+    "native_to": "Northern Europe, North America",
+    "skin_color": "Brown",
+    "eye_color": "Black",
+    "hair_color": "Brown",
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [
+      "Almost identical to the hedgehog",
+      "Savages gardens",
+      "Herbivorous"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Knarl.jpg",
+    "wiki": "https://harrypotter.fandom.com/wiki/Knarl"
+  },
+  {
+    "id": "kneazle",
+    "slug": "kneazle",
+    "name": "Kneazle",
+    "summary": "A Kneazle was a magical beast related to, and similar in appearance to, a cat.",
+    "classification": "XXX",
+    "native_to": "Britain",
+    "skin_color": null,
+    "eye_color": "Varies",
+    "hair_color": "Varies",
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [
+      "Cat"
+    ],
+    "distinctions": [
+      "Cat-like, flecked, speckled or spotted fur, out-sized ears and a tail like that of a lion's",
+      "Highly intelligent",
+      "Uncanny ability to detect untrustworthy individuals",
+      "Independent",
+      "Sometimes aggressive",
+      "Capable of guarding homes"
+    ],
+    "affiliation": [
+      "Wizardkind"
+    ],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Kneazle.jpg",
+    "wiki": "https://harrypotter.fandom.com/wiki/Kneazle"
+  },
+  {
+    "id": "leprechaun",
+    "slug": "leprechaun",
+    "name": "Leprechaun",
+    "summary": "The leprechaun, sometimes known as the clauricorn, was a mischievous magical beast, although it was not malicious. They had a reputation as pranksters, but never inflicted lasting damage on a human with their pranks. Native only to Ireland, they were fully sentient and capable of speech, but never requested the British Ministry of Magic to reclassify them as beings.",
+    "classification": "XXX",
+    "native_to": "Ireland",
+    "skin_color": "Green",
+    "eye_color": null,
+    "hair_color": null,
+    "feathers": null,
+    "height": "Six inches",
+    "length": null,
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [
+      "Mischievous nature",
+      "Herbivorous"
+    ],
+    "affiliation": [
+      "Irish National Quidditch team"
+    ],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Leprechaun.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Leprechaun"
+  },
+  {
+    "id": "lethifold",
+    "slug": "lethifold",
+    "name": "Lethifold",
+    "summary": "The Lethifold (also known as the Living Shroud) was a carnivorous and extremely dangerous magical beast. It was also considered a Dark creature because of its extremely aggressive and violent nature.",
+    "classification": "XXXXX",
+    "native_to": "The tropics",
+    "skin_color": "Black",
+    "eye_color": null,
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [
+      "Dementor"
+    ],
+    "distinctions": [
+      "Resembles a black cloak",
+      "Taste for human flesh"
+    ],
+    "affiliation": [
+      "Dark Arts"
+    ],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Lethifold_concept_art_FB1.jpg",
+    "wiki": "https://harrypotter.fandom.com/wiki/Lethifold"
+  },
+  {
+    "id": "leucrotta",
+    "slug": "leucrotta",
+    "name": "Leucrotta",
+    "summary": "Leucrottas were large, cloven hooved magical beasts that resembled moose in appearance.",
+    "classification": null,
+    "native_to": null,
+    "skin_color": null,
+    "eye_color": null,
+    "hair_color": "Brown",
+    "feathers": null,
+    "height": "Large",
+    "length": null,
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [
+      "Strongly resembled a moose in appearance",
+      "Capable of repeating/mimicking voices and sounds",
+      "Disliked their teeth being brushed"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Leucrotta_COGS.jpeg",
+    "wiki": "https://harrypotter.fandom.com/wiki/Leucrotta"
+  },
+  {
+    "id": "lion-bison-moa",
+    "slug": "lion-bison-moa",
+    "name": "Lion Bison Moa",
+    "summary": "The Lion Bison Moa was a herbivorous magical creature that lived in herds. They were many times larger than humans. Lion Bison Moa had scaled feet similar to those of the extinct , a face resembling that of a , and lion-like ears. Its mane resembles both a bison's and a lion's.",
+    "classification": null,
+    "native_to": null,
+    "skin_color": null,
+    "eye_color": null,
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [
+      "Lion"
+    ],
+    "distinctions": [],
+    "affiliation": [],
+    "status": null,
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Herd_Beast_COG_concept_art.jpg",
+    "wiki": "https://harrypotter.fandom.com/wiki/Lion_Bison_Moa"
+  },
+  {
+    "id": "lobalug",
+    "slug": "lobalug",
+    "name": "Lobalug",
+    "summary": "The Lobalug was an aquatic magical beast found at the bottom of the North Sea.",
+    "classification": "XXX",
+    "native_to": "North Sea",
+    "skin_color": "Yellow",
+    "eye_color": null,
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": "~10 inches",
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [
+      "Rubbery proboscis",
+      "Venom sac"
+    ],
+    "affiliation": [
+      "Merpeople"
+    ],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Lobalug.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Lobalug"
+  },
+  {
+    "id": "mackled-malaclaw",
+    "slug": "mackled-malaclaw",
+    "name": "Mackled Malaclaw",
+    "summary": "The Mackled Malaclaw was a magical land beast which closely resembled the lobster in appearance. The Malaclaw had light grey skin with green spots, with its colour being slightly more vibrant following a moult before gradually returning to normal, and could reach a length of twelve inches. Although it resembled a lobster, it was unfit to eat, and anyone who ate flesh of a Malaclaw would come down with a nasty fever and develop a green rash.",
+    "classification": "XXX",
+    "native_to": "Europe",
+    "skin_color": "Grey with green spots",
+    "eye_color": "Black",
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": "12 inches",
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [
+      "Resembled lobsters",
+      "Bites caused bad luck",
+      "Caused illness when eaten"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Mackled_Malacaw_FBC.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Mackled_Malaclaw"
+  },
+  {
+    "id": "manticore",
+    "slug": "manticore",
+    "name": "Manticore",
+    "summary": "The Manticore was a magical beast and one of the wizarding world's most dangerous creatures.",
+    "classification": "XXXXX",
+    "native_to": "Greece",
+    "skin_color": null,
+    "eye_color": null,
+    "hair_color": "Golden",
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [
+      "Head of a human",
+      "Lion's body",
+      "Scorpion's tail with highly poisonous stinger",
+      "Capable of human speech",
+      "Extremely violent, dangerous and carnivorous",
+      "Skin resistant to most spells"
+    ],
+    "affiliation": [
+      "Dark Arts"
+    ],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Manticore_FBCFWW.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Manticore"
+  },
+  {
+    "id": "marmite",
+    "slug": "marmite",
+    "name": "Marmite",
+    "summary": "The marmite was a moderate-sized squid-like magical beast. Described as a \"cross between a dust mite and squid\", it had a transparent, bio-luminescent body and long trailing tentacles.",
+    "classification": null,
+    "native_to": null,
+    "skin_color": "Transparent",
+    "eye_color": "White",
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [
+      "Transparent, bio-luminescent body",
+      "Long tentacles"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Marmite_Concept_Art_FB1.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Marmite"
+  },
+  {
+    "id": "matagot",
+    "slug": "matagot",
+    "name": "Matagot",
+    "summary": "The Matagot was a magical beast that resembled a large, black cat in appearance. Normally, they were harmless, but if provoked, they would turn into very ferocious creatures.",
+    "classification": null,
+    "native_to": "France (possibly)",
+    "skin_color": "Black",
+    "eye_color": "Light blue",
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [
+      "Resembles black cat in appearance",
+      "Capable of multiplying",
+      "Normally harmless, vicious when provoked"
+    ],
+    "affiliation": [
+      "French Ministry of Magic"
+    ],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Matagots_COG.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Matagot"
+  },
+  {
+    "id": "melon-headed-torch-nose",
+    "slug": "melon-headed-torch-nose",
+    "name": "Melon-headed torch nose",
+    "summary": "This magical fish had a huge pink protuberance on the upper part of its body, a mouth with sharp teeth, long whiskers and an antenna capable of producing light, similar to an anglerfish.",
+    "classification": null,
+    "native_to": null,
+    "skin_color": "Pink",
+    "eye_color": "Orange",
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [
+      "Fish"
+    ],
+    "distinctions": [
+      "Melon-like head",
+      "Has a light-emitting antenna"
+    ],
+    "affiliation": [],
+    "status": "Extant (likely)",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Melon-Headed_Torch_Nose_concept_by_Carlos_Huante.jpg",
+    "wiki": "https://harrypotter.fandom.com/wiki/Melon-headed_torch_nose"
+  },
+  {
+    "id": "merperson",
+    "slug": "merperson",
+    "name": "Merperson",
+    "summary": "A merperson (plural merpeople) was a sentient magical beast that lived underwater. They were found all over the world. Their customs and habits were mysterious, and, like the centaurs, were offered the being status but refused in favour of beast, as they did not want to be placed in a status with hags and vampires. Merpeople could breathe above the water for a time, but it was unclear if they could ever truly leave their habitat.",
+    "classification": "XXXX",
+    "native_to": "Originally Greece, now found worldwide",
+    "skin_color": "Varies",
+    "eye_color": "Varies",
+    "hair_color": "Varies",
+    "feathers": null,
+    "height": "Varies",
+    "length": null,
+    "wingspan": null,
+    "related_to": [
+      "Sub-species",
+      "Siren",
+      "Selkie",
+      "Merrow"
+    ],
+    "distinctions": [
+      "Fish-like attributes",
+      "Water-inhabitant"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Merpeople_Pottermore.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Merperson"
+  },
+  {
+    "id": "miscellaneous-creature",
+    "slug": "miscellaneous-creature",
+    "name": "Miscellaneous creature",
+    "summary": "There was a creature with a body covered in pangolin-like scales and six legs. Its head had three horns, as well as four eyes and a serrated beak.",
+    "classification": null,
+    "native_to": null,
+    "skin_color": null,
+    "eye_color": null,
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [
+      "Pangolin-like scales",
+      "Has six legs, three horns and four eyes",
+      "Has a serrated beak"
+    ],
+    "affiliation": [],
+    "status": "Extant (likely)",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Misc_creature_sketch_by_Ben_Kovar_FB.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Miscellaneous_creature"
+  },
+  {
+    "id": "moke",
+    "slug": "moke",
+    "name": "Moke",
+    "summary": "The Moke was a magical lizard with silver-green skin that was native to the Great Britain and Ireland.",
+    "classification": "XXX",
+    "native_to": "Great Britain, Ireland",
+    "skin_color": "Silver-green",
+    "eye_color": null,
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": "Ten inches",
+    "wingspan": null,
+    "related_to": [
+      "Lizard"
+    ],
+    "distinctions": [
+      "Shrinks at will"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Moke.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Moke"
+  },
+  {
+    "id": "murtlap",
+    "slug": "murtlap",
+    "name": "Murtlap",
+    "summary": "The Murtlap was a magical marine beast resembling a rat with a growth on its back similar to a sea anemone, found on the coastal areas of Britain.",
+    "classification": "XXX",
+    "native_to": "Great Britain",
+    "skin_color": "Pale pink",
+    "eye_color": null,
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [
+      "Resembles rat but with tentacles",
+      "Carnivorous"
+    ],
+    "affiliation": [
+      "Water"
+    ],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Murtlap.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Murtlap"
+  },
+  {
+    "id": "muskrill",
+    "slug": "muskrill",
+    "name": "Muskrill",
+    "summary": "The Muskrill was a white krill-like creature capable of producing bio-luminescence, ranging in colour from red to green-blue.",
+    "classification": null,
+    "native_to": null,
+    "skin_color": "White",
+    "eye_color": "Light-blue",
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [
+      "Bio-luminescent"
+    ],
+    "affiliation": [],
+    "status": "Extant (likely)",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Muskrill_concept_art_by_Jamie_O'Hara_COG.jpg",
+    "wiki": "https://harrypotter.fandom.com/wiki/Muskrill"
+  },
+  {
+    "id": "niffler",
+    "slug": "niffler",
+    "name": "Niffler",
+    "summary": "The Niffler was a magical beast with a long snout and a coat of black, fluffy fur. They were attracted to shiny things, which made them wonderful for locating treasure, but that also meant that they could wreak havoc if kept (or let loose) indoors. Nifflers in general were usually harmless.",
+    "classification": "XXX",
+    "native_to": "Great Britain",
+    "skin_color": null,
+    "eye_color": null,
+    "hair_color": "Black, Brown, Teal",
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [
+      "Rodent-like",
+      "Long snout",
+      "Attracted to shiny objects and metals",
+      "Skilled at hunting for treasure",
+      "Can wreck indoor environments"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Niffler_FBCFTWW.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Niffler"
+  },
+  {
+    "id": "nocturnal-beasts",
+    "slug": "nocturnal-beasts",
+    "name": "Nocturnal beasts",
+    "summary": "Nocturnal beasts were a class of beasts which were known for sleeping during the day and being active at night-time. Werewolves may have belonged to this category, since Hermione Granger remarked that their Defence Against the Dark Arts class was \"not meant to start nocturnal beasts for weeks\" when they began studying werewolves.",
+    "classification": null,
+    "native_to": null,
+    "skin_color": null,
+    "eye_color": null,
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [
+      "Nocturnal natures, sleep during daytime, active during night time"
+    ],
+    "affiliation": [
+      "Dark Arts"
+    ],
+    "status": "Extant",
+    "image": null,
+    "wiki": "https://harrypotter.fandom.com/wiki/Nocturnal_beasts"
+  },
+  {
+    "id": "nogtail",
+    "slug": "nogtail",
+    "name": "Nogtail",
+    "summary": "The Nogtail was a demon resembling a stunted piglet, but with narrow black eyes, a thick stubby tail, and long legs.",
+    "classification": "XXX",
+    "native_to": "Europe, Russia, North America, South America",
+    "skin_color": "Brown",
+    "eye_color": "Black",
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [
+      "Long legs",
+      "Thick stubby tail",
+      "Suckled pigs",
+      "Exceptionally fast and hard to catch"
+    ],
+    "affiliation": [
+      "Dark Arts"
+    ],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Nogtail_Pottermore.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Nogtail"
+  },
+  {
+    "id": "nundu",
+    "slug": "nundu",
+    "name": "Nundu",
+    "summary": "The Nundu was a large East African magical beast that resembled a leopard.",
+    "classification": "XXXXX",
+    "native_to": "East Africa",
+    "skin_color": null,
+    "eye_color": null,
+    "hair_color": "Yellow with black spots",
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [
+      "Resembles leopard or lion in appearance",
+      "Toxic breath",
+      "Moved silently",
+      "Carnivorous"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Nundu_FB_IE.jpg",
+    "wiki": "https://harrypotter.fandom.com/wiki/Nundu"
+  },
+  {
+    "id": "occamy",
+    "slug": "occamy",
+    "name": "Occamy",
+    "summary": "The Occamy was a winged, serpentine magical beast native to the Far East and India.",
+    "classification": "XXXX",
+    "native_to": "Far East, India",
+    "skin_color": "Turquoise",
+    "eye_color": null,
+    "hair_color": "Purple",
+    "feathers": "Teal",
+    "height": null,
+    "length": "Fifteen feet",
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [
+      "Serpentine appearance",
+      "Winged",
+      "Extremely aggressive",
+      "Carnivorous",
+      "Protective of eggs",
+      "Capable of Choranaptyxis"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Occamy_FBCases.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Occamy"
+  },
+  {
+    "id": "oni",
+    "slug": "oni",
+    "name": "Oni",
+    "summary": "An oni ({{lang|ja|}}) was a magical beast, described as a Japanese demon.",
+    "classification": null,
+    "native_to": "Japan",
+    "skin_color": null,
+    "eye_color": null,
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [
+      "Horned"
+    ],
+    "affiliation": [],
+    "status": "Extant (as of 1987)",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Oni_COG.jpeg",
+    "wiki": "https://harrypotter.fandom.com/wiki/Oni"
+  },
+  {
+    "id": "peluda",
+    "slug": "peluda",
+    "name": "Peluda",
+    "summary": "A Peluda was a carnivorous magical beast that lived in the water.",
+    "classification": null,
+    "native_to": null,
+    "skin_color": "White",
+    "eye_color": null,
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [
+      "Carnivorous",
+      "Aquatic",
+      "Covered in spikes"
+    ],
+    "affiliation": [],
+    "status": null,
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Peluda_concept_art_made_by_Max_Kostenko_COG.jpg",
+    "wiki": "https://harrypotter.fandom.com/wiki/Peluda"
+  },
+  {
+    "id": "pheasanthunter",
+    "slug": "pheasanthunter",
+    "name": "Pheasanthunter",
+    "summary": "The pheasanthunter, also known as the pseudo-drake, was a type of drake. It had green dragon scales and a pair of golden horns.",
+    "classification": null,
+    "native_to": null,
+    "skin_color": "Green",
+    "eye_color": "Turquoise",
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [
+      "Drake"
+    ],
+    "distinctions": [
+      "Green dragon scales",
+      "Golden horns",
+      "Resembles dog"
+    ],
+    "affiliation": [],
+    "status": "Extant (likely)",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Miscellaneous_Beast_concept_art_by_Carlos_Huante.jpg",
+    "wiki": "https://harrypotter.fandom.com/wiki/Pheasanthunter"
+  },
+  {
+    "id": "phoenix",
+    "slug": "phoenix",
+    "name": "Phoenix",
+    "summary": "The phoenix was a large swan-sized scarlet magical bird with red and gold plumage, along with a golden beak and talons, black eyes, and a tail as long as a peacock's. Phoenixes would usually nest on mountain peaks and were gentle herbivores, that were not known for fighting. A phoenix was also one of the most independent and detached creatures in the world.",
+    "classification": "XXXX",
+    "native_to": "Egypt, India, China",
+    "skin_color": null,
+    "eye_color": "Black",
+    "hair_color": null,
+    "feathers": "Scarlet, Golden tail",
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [
+      "Hoo-hoo",
+      "Thunderbird"
+    ],
+    "distinctions": [
+      "Reborn from ashes upon death",
+      "Immense strength",
+      "Tears had healing powers",
+      "Capable of singing soul-touching song",
+      "Strictly herbivorous"
+    ],
+    "affiliation": [
+      "Dumbledore family"
+    ],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Phoenix.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Phoenix"
+  },
+  {
+    "id": "plimpy",
+    "slug": "plimpy",
+    "name": "Plimpy",
+    "summary": "The Plimpy was a small, round and magical fish with two legs ending in webbed feet. It lived in deep lakes, and fed on water snails. The Plimpy was not dangerous, but would nibble on the feet and clothing of unsuspecting swimmers. Plimpy eyes were used in potion-making.",
+    "classification": "XXX",
+    "native_to": "Worldwide",
+    "skin_color": "Yellowish",
+    "eye_color": null,
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [
+      "Round in shape",
+      "Has two legs"
+    ],
+    "affiliation": [
+      "Merpeople"
+    ],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Plimpy.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Plimpy"
+  },
+  {
+    "id": "pogrebin",
+    "slug": "pogrebin",
+    "name": "Pogrebin",
+    "summary": "The Pogrebin was a foot-tall Russian demon with a hairy body and a large grey head.",
+    "classification": "XXX",
+    "native_to": "Russia",
+    "skin_color": null,
+    "eye_color": null,
+    "hair_color": null,
+    "feathers": null,
+    "height": "1 foot",
+    "length": null,
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [
+      "Hairy",
+      "Oversized grey head",
+      "Attracted to and attacked humans"
+    ],
+    "affiliation": [
+      "Dark Arts"
+    ],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Pogrebin.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Pogrebin"
+  },
+  {
+    "id": "porlock",
+    "slug": "porlock",
+    "name": "Porlock",
+    "summary": "The Porlock was a magical beast that tended to guard horses, native to England and southern Ireland.",
+    "classification": "XX",
+    "native_to": "England, Southern Ireland",
+    "skin_color": "Black",
+    "eye_color": "Blue",
+    "hair_color": "Red and brown",
+    "feathers": null,
+    "height": "Two feet",
+    "length": null,
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [
+      "Walked on two cloven hooves",
+      "Mistrustful of humans",
+      "Rough, shaggy hair",
+      "Large nose",
+      "Small arms",
+      "Four stubby fingers"
+    ],
+    "affiliation": [
+      "Horses"
+    ],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Porlock.jpg",
+    "wiki": "https://harrypotter.fandom.com/wiki/Porlock"
+  },
+  {
+    "id": "puffskein",
+    "slug": "puffskein",
+    "name": "Puffskein",
+    "summary": "Puffskeins, collectively referred to as poffle, were small magical beasts covered in soft fur and spherical in shape with a long tongue. It was a popular wizarding pet found worldwide that did not object to being cuddled or thrown about.",
+    "classification": "XX",
+    "native_to": null,
+    "skin_color": null,
+    "eye_color": null,
+    "hair_color": "Custard<ref name=\"POA",
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [
+      "Pygmy Puff",
+      "Appaloosa Puffskein",
+      "Fanged Puffskein"
+    ],
+    "distinctions": [
+      "Small and furry<ref name=\"FB"
+    ],
+    "affiliation": [],
+    "status": "Extant<ref name=\"FB",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Puffskein_pm.jpg",
+    "wiki": "https://harrypotter.fandom.com/wiki/Puffskein"
+  },
+  {
+    "id": "pygmy-kraken",
+    "slug": "pygmy-kraken",
+    "name": "Pygmy Kraken",
+    "summary": "The Pygmy Kraken was a kraken-like magical creature. It had many tentacles and was capable of producing bio-luminescence, possibly allowing it to live in deep waters.",
+    "classification": null,
+    "native_to": null,
+    "skin_color": "Greyish",
+    "eye_color": "Bright blue",
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [
+      "Had many tentacles",
+      "Bio-luminescent"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Pygmy_Kraken_COG_2.jpeg",
+    "wiki": "https://harrypotter.fandom.com/wiki/Pygmy_Kraken"
+  },
+  {
+    "id": "qilin",
+    "slug": "qilin",
+    "name": "Qilin",
+    "summary": "The Qilin (pronounced \"Chillin\") was a half-dragon, half-horse magical beast, with a skinny, scaled and furry deer-like body. They were a very rare Beast, exclusively native to the Kweilin Hills of China.",
+    "classification": null,
+    "native_to": "Kweilin, China",
+    "skin_color": "Brown and white skin and fur",
+    "eye_color": null,
+    "hair_color": "Light brown",
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [
+      "Possessed the ability to see into a person's soul",
+      "Possessed precognitive abilities",
+      "Part-dragon, part-horse"
+    ],
+    "affiliation": [],
+    "status": null,
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Qilin_SODM.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Qilin"
+  },
+  {
+    "id": "quintaped",
+    "slug": "quintaped",
+    "name": "Quintaped",
+    "summary": "The Quintaped, also known as the Hairy MacBoon, was a dangerous magical beast with five legs, each ending in a clubfoot, and was covered with thick, red-brown hair.",
+    "classification": "XXXXX",
+    "native_to": "Isle of Drear",
+    "skin_color": null,
+    "eye_color": null,
+    "hair_color": "Red-brown",
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [
+      "Five legs",
+      "Carnivorous, taste for human flesh",
+      "Extremely dangerous and hostile towards humans"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Quintaped_FB-2017.jpeg",
+    "wiki": "https://harrypotter.fandom.com/wiki/Quintaped"
+  },
+  {
+    "id": "ramora",
+    "slug": "ramora",
+    "name": "Ramora",
+    "summary": "The Ramora was a magical silver fish native to the Indian Ocean.",
+    "classification": "XX",
+    "native_to": "Indian Ocean",
+    "skin_color": "Silver",
+    "eye_color": null,
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": "Longer than ships",
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [
+      "Anchors ships in place"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Ramora_FB_IE.jpg",
+    "wiki": "https://harrypotter.fandom.com/wiki/Ramora"
+  },
+  {
+    "id": "re-em",
+    "slug": "re-em",
+    "name": "Re'em",
+    "summary": "The '''Re'em''' was a magical beast native to the wilds of North America and the Far East. The Re'em was extremely rare, resembling a giant ox with a golden hide. Re'em blood gave immense strength to the drinker for a limited time. However, since demand far exceeded supply, and obtaining the blood in the first place was extremely difficult, it could rarely be found in the open market.",
+    "classification": "XXXX",
+    "native_to": "North America, Far East",
+    "skin_color": null,
+    "eye_color": null,
+    "hair_color": "Golden",
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [
+      "Resembles an",
+      "Blood increases strength of drinker"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Re'em_FB_IE.jpg",
+    "wiki": "https://harrypotter.fandom.com/wiki/Re%27em"
+  },
+  {
+    "id": "red-cap",
+    "slug": "red-cap",
+    "name": "Red Cap",
+    "summary": "The Red Cap was a small, dwarf-like magical beast that inhabited wherever human blood had been shed, such as in the dungeons of castles, the potholes of old battlefields, or holes underground.",
+    "classification": "XXX",
+    "native_to": "Northern Europe",
+    "skin_color": "Green",
+    "eye_color": "Red",
+    "hair_color": null,
+    "feathers": null,
+    "height": "3-4 feet",
+    "length": null,
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [
+      "Dwarf-like appearance",
+      "Attracted to spilt human blood",
+      "Bludgeons unwary to death"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Red_Cap.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Red_Cap"
+  },
+  {
+    "id": "rocks-and-slime-beast",
+    "slug": "rocks-and-slime-beast",
+    "name": "Rocks and slime beast",
+    "summary": "This creature was made of rocks and slime and had the ability to squeeze through cracks in large rocks.",
+    "classification": null,
+    "native_to": null,
+    "skin_color": "Brown",
+    "eye_color": null,
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [
+      "Body made of rocks and slime",
+      "Can squeeze through cracks"
+    ],
+    "affiliation": [],
+    "status": "Extant (likely)",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Beast_made_of_rocks_and_slime_by_Ben_Kovar_-_FB3.jpg",
+    "wiki": "https://harrypotter.fandom.com/wiki/Rocks_and_slime_beast"
+  },
+  {
+    "id": "rocky-backed-creature",
+    "slug": "rocky-backed-creature",
+    "name": "Rocky-backed creature",
+    "summary": "There was a huge creature with a rocky back, four legs, a thick tail and two horns or fangs on its face.",
+    "classification": null,
+    "native_to": null,
+    "skin_color": "Rock-like",
+    "eye_color": null,
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [],
+    "affiliation": [],
+    "status": "Extant (likely)",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Random_beast_by_Ben_Kovar_-_FB3.jpg",
+    "wiki": "https://harrypotter.fandom.com/wiki/Rocky-backed_creature"
+  },
+  {
+    "id": "runespoor",
+    "slug": "runespoor",
+    "name": "Runespoor",
+    "summary": "The Runespoor was a magical three-headed snake native to the African country of Burkina Faso. Since they were very easy to spot, the Burkina Faso Ministry of Magic made several forests Unplottable for the Runespoor's use, and to avoid sightings by non-wizards.",
+    "classification": "XXXX",
+    "native_to": "Burkina Faso, Africa",
+    "skin_color": "Orange with black stripes",
+    "eye_color": null,
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": "Six to seven feet",
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [
+      "Three heads"
+    ],
+    "affiliation": [
+      "Dark wizards (formerly)"
+    ],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Runespoor_-_FBcases.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Runespoor"
+  },
+  {
+    "id": "sea-serpent",
+    "slug": "sea-serpent",
+    "name": "Sea serpent",
+    "summary": "The sea serpent was an aquatic magical beast found in several seas around the world including the Atlantic, Pacific, and Mediterranean Sea. The British Ministry of Magic had set up a Sea Serpent Sanctuary in the Hebrides to look after sea serpents.",
+    "classification": "XXX",
+    "native_to": "Atlantic Ocean, Pacific Ocean, Mediterranean Sea, Great Lake",
+    "skin_color": null,
+    "eye_color": null,
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": "100 feet",
+    "wingspan": null,
+    "related_to": [
+      "Selma"
+    ],
+    "distinctions": [
+      "Horse-like head",
+      "Serpentine body",
+      "Peaceful temperament"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Sea_Serpent_-_FBcases.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Sea_serpent"
+  },
+  {
+    "id": "secondary",
+    "slug": "secondary",
+    "name": "Secondary",
+    "summary": "A secondary was an aquatic creature that sheltered in the deep part of the ocean.",
+    "classification": null,
+    "native_to": "Deep ocean",
+    "skin_color": null,
+    "eye_color": null,
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [],
+    "affiliation": [],
+    "status": null,
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Secondary.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Secondary"
+  },
+  {
+    "id": "shrake",
+    "slug": "shrake",
+    "name": "Shrake",
+    "summary": "A Shrake was a magically-created species of fish, found in the Atlantic Ocean.",
+    "classification": "XXX",
+    "native_to": "Atlantic Ocean",
+    "skin_color": null,
+    "eye_color": null,
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [
+      "Fish"
+    ],
+    "distinctions": [
+      "Covered in sharp spines that can destroy fishing nets"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Shrake_-_Neal_Murren_for_Pottermore.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Shrake"
+  },
+  {
+    "id": "six-legged-hippo-dragon",
+    "slug": "six-legged-hippo-dragon",
+    "name": "Six-legged hippo-dragon",
+    "summary": "A six-legged hippo-dragon was a type of drake, possibly a hybrid between a dragon and a hippopotamus.",
+    "classification": null,
+    "native_to": null,
+    "skin_color": null,
+    "eye_color": null,
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [
+      "Drake"
+    ],
+    "distinctions": [
+      "Possibly a hybrid between a hippopotamus and a dragon",
+      "Has six legs"
+    ],
+    "affiliation": [],
+    "status": "Extant (likely)",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Six-legged_hippo-dragon.jpg",
+    "wiki": "https://harrypotter.fandom.com/wiki/Six-legged_hippo-dragon"
+  },
+  {
+    "id": "six-legged-panda-pig",
+    "slug": "six-legged-panda-pig",
+    "name": "Six-legged panda pig",
+    "summary": "A six-legged panda pig was a magical beast that was presumably a hybrid between a panda and a pig.",
+    "classification": null,
+    "native_to": null,
+    "skin_color": null,
+    "eye_color": null,
+    "hair_color": "Black and white",
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [
+      "Panda",
+      "Pig"
+    ],
+    "distinctions": [
+      "Presumably a hybrid between a panda and a pig",
+      "Has six legs"
+    ],
+    "affiliation": [],
+    "status": "Extant (possibly)",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Panda_Pig_Concept_Art.jpeg",
+    "wiki": "https://harrypotter.fandom.com/wiki/Six-legged_panda_pig"
+  },
+  {
+    "id": "slender-legged-creature",
+    "slug": "slender-legged-creature",
+    "name": "Slender-legged creature",
+    "summary": "There existed a massive creature covered in rock-like scales, with four long, slender legs and a horned snout. When standing on all fours, it was nearly twice the height of a human.",
+    "classification": null,
+    "native_to": null,
+    "skin_color": "Rock-like",
+    "eye_color": null,
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [],
+    "affiliation": [],
+    "status": "Extant (likely)",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Slender-legged_creature.jpeg",
+    "wiki": "https://harrypotter.fandom.com/wiki/Slender-legged_creature"
+  },
+  {
+    "id": "snallygaster",
+    "slug": "snallygaster",
+    "name": "Snallygaster",
+    "summary": "The Snallygaster was a dragon-like magical beast known to exist in the New World. It featured in many Muggle newspapers and was so well-known that it competed with the Loch Ness Monster.",
+    "classification": "XXXX",
+    "native_to": "United States of America",
+    "skin_color": null,
+    "eye_color": null,
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [
+      "Occamy"
+    ],
+    "distinctions": [
+      "Part-bird and part-reptile",
+      "Resembles dragons",
+      "Serrated steel fangs to pierce prey",
+      "Naturally curious nature",
+      "Bulletproof hide"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Snallygaster.jpg",
+    "wiki": "https://harrypotter.fandom.com/wiki/Snallygaster"
+  },
+  {
+    "id": "spaghetti-monster",
+    "slug": "spaghetti-monster",
+    "name": "Spaghetti Monster",
+    "summary": "The Spaghetti Monster was a magical beast with a body made of bandage-like tendrils, three-fingered clawed hands and a faceless head. This creature invaded houses to attack its prey while they slept.",
+    "classification": null,
+    "native_to": null,
+    "skin_color": null,
+    "eye_color": "Eyeless",
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [
+      "It attacks its prey while they sleep",
+      "Body made of bandage-like tendrils"
+    ],
+    "affiliation": [],
+    "status": "Extant (likely)",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Spaghetti_Monster_by_Ben_Kovar_FB.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Spaghetti_Monster"
+  },
+  {
+    "id": "sphinx",
+    "slug": "sphinx",
+    "name": "Sphinx",
+    "summary": "Sphinxes had the head of a human, and the body of a lion. When the British Ministry of Magic began categorising magical creatures, the sphinx was placed in the Beast category rather than the Being category, due to the violent tendencies they got when something they guarded was in danger.",
+    "classification": "XXXX",
+    "native_to": "Egypt",
+    "skin_color": null,
+    "eye_color": "Almond-shaped, Hazel",
+    "hair_color": "Brown",
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [
+      "Human head and face",
+      "Lion body",
+      "Highly intelligent",
+      "Capable of human speech",
+      "Delights in puzzles and riddles",
+      "Violent nature"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Sphinx_FBCFWW.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Sphinx"
+  },
+  {
+    "id": "squonk",
+    "slug": "squonk",
+    "name": "Squonk",
+    "summary": "A Squonk was a magical creature that existed during the early 20th century.",
+    "classification": null,
+    "native_to": null,
+    "skin_color": null,
+    "eye_color": null,
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [],
+    "affiliation": [],
+    "status": null,
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Squonk_concept_art_made_by_Max_Kostenko.jpg",
+    "wiki": "https://harrypotter.fandom.com/wiki/Squonk"
+  },
+  {
+    "id": "streeler",
+    "slug": "streeler",
+    "name": "Streeler",
+    "summary": "The Streeler was a giant magical snail that changed colour every hour, and produced a poisonous slime.",
+    "classification": "XXX",
+    "native_to": "Africa",
+    "skin_color": "Brown",
+    "eye_color": null,
+    "hair_color": null,
+    "feathers": null,
+    "height": "Giant",
+    "length": null,
+    "wingspan": null,
+    "related_to": [
+      "Snails"
+    ],
+    "distinctions": [
+      "Changes colour hourly",
+      "Toxic trail, spikes and shells"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Streeler.jpg",
+    "wiki": "https://harrypotter.fandom.com/wiki/Streeler"
+  },
+  {
+    "id": "swamp-lepus",
+    "slug": "swamp-lepus",
+    "name": "Swamp Lepus",
+    "summary": "A Swamp Lepus was a magical creature that resided in swamps in the temperate zone during the early 20th century.",
+    "classification": null,
+    "native_to": null,
+    "skin_color": null,
+    "eye_color": null,
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [
+      "Temperate zone"
+    ],
+    "distinctions": [],
+    "affiliation": [],
+    "status": null,
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Temperate_Forest_creatures_concept_art_made_by_Carlos_HUante.jpg",
+    "wiki": "https://harrypotter.fandom.com/wiki/Swamp_Lepus"
+  },
+  {
+    "id": "swooping-evil",
+    "slug": "swooping-evil",
+    "name": "Swooping Evil",
+    "summary": "The Swooping Evil was a blue-and-green winged dark magical beast.",
+    "classification": null,
+    "native_to": null,
+    "skin_color": "Blue and green",
+    "eye_color": null,
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [
+      "Resembles large butterfly",
+      "Wolf-like skull",
+      "Spiked wings",
+      "Shrinks into green spiny cocoon when not in flight",
+      "Feeds on human brains",
+      "Tough skin can deflect spells",
+      "Venomous"
+    ],
+    "affiliation": [
+      "Dark Arts"
+    ],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Swooping_Evil_concept_art.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Swooping_Evil"
+  },
+  {
+    "id": "tebo",
+    "slug": "tebo",
+    "name": "Tebo",
+    "summary": "The Tebo was found in the African countries Congo and Zaire. It was very dangerous and could make itself invisible, rendering it virtually impossible to capture or evade. Tebo hide was strong and therefore  was often used by wizards and witches to make protective shields and clothing.",
+    "classification": "XXXX",
+    "native_to": "Congo, Zaire",
+    "skin_color": null,
+    "eye_color": "Brown",
+    "hair_color": "Ashen",
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [
+      "Warthog"
+    ],
+    "distinctions": [
+      "Highly dangerous",
+      "Can turn invisible",
+      "Extremely difficult to capture or evade"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Tebo.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Tebo"
+  },
+  {
+    "id": "thornback",
+    "slug": "thornback",
+    "name": "Thornback",
+    "summary": "The thornback was a large variation of spider that inhabited the forests and caves in the Scottish Highlands, including the Forbidden Forest, during the late 19th century.",
+    "classification": null,
+    "native_to": "Forbidden Forest, Scotland",
+    "skin_color": "Various",
+    "eye_color": "Yellow",
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [
+      "Spider"
+    ],
+    "distinctions": [
+      "Large spider"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Thornback_Matriarch.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Thornback"
+  },
+  {
+    "id": "three-headed-cat",
+    "slug": "three-headed-cat",
+    "name": "Three-headed cat",
+    "summary": "A three-headed cat was a magical species of cat characterised by having three heads instead of one.",
+    "classification": null,
+    "native_to": "France",
+    "skin_color": null,
+    "eye_color": null,
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [
+      "Cat"
+    ],
+    "distinctions": [
+      "Has three heads instead one",
+      "Aggressive temperament"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": null,
+    "wiki": "https://harrypotter.fandom.com/wiki/Three-headed_cat"
+  },
+  {
+    "id": "three-headed-dog",
+    "slug": "three-headed-dog",
+    "name": "Three-headed dog",
+    "summary": "A three-headed dog, also known as a Cerberus, was a very rare magical beast. It is unknown if, like the Runespoor, each head served a different purpose. Their great weakness was the inability to resist falling asleep to the sound of music.",
+    "classification": null,
+    "native_to": "Greece",
+    "skin_color": null,
+    "eye_color": "Black",
+    "hair_color": "Brown",
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [
+      "Dog"
+    ],
+    "distinctions": [
+      "Three heads",
+      "Larger and stronger than non-magical dogs"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Fluffy_HPCB.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Three-headed_dog"
+  },
+  {
+    "id": "thunderbird",
+    "slug": "thunderbird",
+    "name": "Thunderbird",
+    "summary": "The Thunderbird was a large, magical avian beast native to North America, and most commonly found in Arizona in the southwestern United States. A close relative of the phoenix, the Thunderbird could create storms as it flew and was highly sensitive to danger. A House at Ilvermorny School of Witchcraft and Wizardry was named after this creature.",
+    "classification": "XXXX",
+    "native_to": "Arizona, United States of America",
+    "skin_color": "White",
+    "eye_color": null,
+    "hair_color": null,
+    "feathers": "Gold/White",
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [
+      "Phoenix"
+    ],
+    "distinctions": [
+      "Can magically create storms",
+      "Highly sensitive to danger"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Thunderbird_concept_art.jpg",
+    "wiki": "https://harrypotter.fandom.com/wiki/Thunderbird"
+  },
+  {
+    "id": "tree-forming-lizard",
+    "slug": "tree-forming-lizard",
+    "name": "Tree-Forming Lizard",
+    "summary": "A Tree-Forming Lizard was a small magical beast that was capable of forming and reforming into a large plant-like structure.",
+    "classification": null,
+    "native_to": null,
+    "skin_color": null,
+    "eye_color": null,
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [
+      "Lizard"
+    ],
+    "distinctions": [
+      "Capable of transforming into plant-like structure"
+    ],
+    "affiliation": [],
+    "status": null,
+    "image": null,
+    "wiki": "https://harrypotter.fandom.com/wiki/Tree-Forming_Lizard"
+  },
+  {
+    "id": "troll",
+    "slug": "troll",
+    "name": "Troll",
+    "summary": "A troll was a magical beast of prodigious strength and immense stupidity. In fact, they were so synonymous with stupidity that wizards actually had the lowest wizarding exam failing grade named after them. Trolls were grouped in the taxonomical genus Troglodytarum.",
+    "classification": "XXXX",
+    "native_to": "Europe, (originally Scandinavia)",
+    "skin_color": "Varies",
+    "eye_color": "Varies",
+    "hair_color": null,
+    "feathers": null,
+    "height": "12 feet",
+    "length": null,
+    "wingspan": null,
+    "related_to": [
+      "Yeti (possibly)"
+    ],
+    "distinctions": [
+      "Giant-like appearance",
+      "Low intelligence",
+      "Generally aggressive nature",
+      "Carnivorous"
+    ],
+    "affiliation": [
+      "Norwegian National Quidditch team"
+    ],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Troll-pottermore.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Troll"
+  },
+  {
+    "id": "two-headed-dog",
+    "slug": "two-headed-dog",
+    "name": "Two-headed dog",
+    "summary": "A two-headed dog was a dog-like creature with two heads instead of one. It may have been related to the similarly named three-headed dog.",
+    "classification": null,
+    "native_to": null,
+    "skin_color": null,
+    "eye_color": null,
+    "hair_color": "Brown",
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [
+      "Three-headed dog"
+    ],
+    "distinctions": [
+      "Possesses two heads instead of one"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Two-headed_dog_tapestry_(cropped)_HL.jpeg",
+    "wiki": "https://harrypotter.fandom.com/wiki/Two-headed_dog"
+  },
+  {
+    "id": "unicorn",
+    "slug": "unicorn",
+    "name": "Unicorn",
+    "summary": "The unicorn was a white horse with a single horn sticking out of the middle of its forehead. The existence of unicorns was one of the worst-kept secrets of the wizarding world, as unicorns were inextricably associated with magic in the Muggle world and were an iconic magical creature.",
+    "classification": "XXXX",
+    "native_to": "Northern Europe",
+    "skin_color": null,
+    "eye_color": null,
+    "hair_color": "White (mature), Silver (aged 2-7), Gold (first 2 years)",
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [
+      "Horses"
+    ],
+    "distinctions": [
+      "Single horn on head",
+      "Pure white coat",
+      "Golden hooves",
+      "Friendlier towards witches than wizards",
+      "Blood, hair and horn all have potent magical properties"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Unicorn_FBCFTWW.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Unicorn"
+  },
+  {
+    "id": "unidentified-frog-like-creature",
+    "slug": "unidentified-frog-like-creature",
+    "name": "Unidentified frog-like creature",
+    "summary": "There was a four-legged unidentified frog-like creature with black skin and yellow spots.",
+    "classification": null,
+    "native_to": null,
+    "skin_color": "Black and yellow",
+    "eye_color": null,
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [
+      "Frog (possibly)"
+    ],
+    "distinctions": [],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Unidentified_frog-like_creature_FB3.gif",
+    "wiki": "https://harrypotter.fandom.com/wiki/Unidentified_frog-like_creature"
+  },
+  {
+    "id": "vampyr-mosp",
+    "slug": "vampyr-mosp",
+    "name": "Vampyr Mosp",
+    "summary": "Vampyr Mosps were giant, aggressive insects who would try to sting any individual they came into close contact with; the effect of these stings could be quite painful to the victim. They were very attracted by the smell of certain flowers.",
+    "classification": null,
+    "native_to": "Scotland (possibly)",
+    "skin_color": "Purple or Red",
+    "eye_color": null,
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [
+      "Wasp-moth hybrid",
+      "Giant and aggressive",
+      "Painful sting",
+      "Attracted to the scent of flowers"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Vampyr_Mosp.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Vampyr_Mosp"
+  },
+  {
+    "id": "venomous-silk-spitting-spider",
+    "slug": "venomous-silk-spitting-spider",
+    "name": "Venomous Silk-Spitting spider",
+    "summary": "The Venomous Silk-Spitting spider was a magical variety of spider capable of spitting silk and exploding, leaving a poisonous puddle behind.",
+    "classification": null,
+    "native_to": null,
+    "skin_color": "Green",
+    "eye_color": "Green",
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [
+      "Spider"
+    ],
+    "distinctions": [
+      "Poisonous"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Venomous_Silk-Spitting_Spider_MA.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Venomous_Silk-Spitting_spider"
+  },
+  {
+    "id": "wampus-cat",
+    "slug": "wampus-cat",
+    "name": "Wampus cat",
+    "summary": "The Wampus cat was a magical cat native to the United States, specifically Appalachia. It was one of the four house symbols of Ilvermorny School of Witchcraft and Wizardry.",
+    "classification": "XXXXX",
+    "native_to": "Appalachian Mountains, North America",
+    "skin_color": null,
+    "eye_color": "Yellow",
+    "hair_color": "Light brown and white",
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [
+      "Cat"
+    ],
+    "distinctions": [
+      "Eyes capable of hypnosis and legilimency",
+      "Incredibly fast and strong",
+      "Almost impossible to kill"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Wampus_Cat_FB-2017.jpeg",
+    "wiki": "https://harrypotter.fandom.com/wiki/Wampus_cat"
+  },
+  {
+    "id": "water-dragon-parasite",
+    "slug": "water-dragon-parasite",
+    "name": "Water dragon parasite",
+    "summary": "These parasites were a kind of magical creature that resembled a \"spindly, waterborne spider\", usually found living off water dragons.",
+    "classification": null,
+    "native_to": "Paris sewers (possibly)",
+    "skin_color": null,
+    "eye_color": null,
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [
+      "Resembled spindly waterborne spider",
+      "Usually lived off water dragons, occasionally humans",
+      "Highly venomous"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Parasite_Extraction_.gif",
+    "wiki": "https://harrypotter.fandom.com/wiki/Water_dragon_parasite"
+  },
+  {
+    "id": "weetimorousbeastie",
+    "slug": "weetimorousbeastie",
+    "name": "Weetimorousbeastie",
+    "summary": "The Weetimorousbeastie was a fabled magical beast that allegedly lived on the banks of River Clyde in Scotland.",
+    "classification": null,
+    "native_to": "Banks of River Clyde, Scotland",
+    "skin_color": null,
+    "eye_color": null,
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [],
+    "affiliation": [],
+    "status": "Mythical (possibly)",
+    "image": null,
+    "wiki": "https://harrypotter.fandom.com/wiki/Weetimorousbeastie"
+  },
+  {
+    "id": "wetland-jack-moose",
+    "slug": "wetland-jack-moose",
+    "name": "Wetland Jack moose",
+    "summary": "A wetland Jack moose was a magical creature that resided in wetlands in the temperate zone during the early 20th century.",
+    "classification": null,
+    "native_to": null,
+    "skin_color": null,
+    "eye_color": null,
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [
+      "Temperate zone"
+    ],
+    "distinctions": [],
+    "affiliation": [],
+    "status": null,
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Temperate_Forest_creatures_concept_art_made_by_Carlos_HUante.jpg",
+    "wiki": "https://harrypotter.fandom.com/wiki/Wetland_Jack_moose"
+  },
+  {
+    "id": "winged-horse",
+    "slug": "winged-horse",
+    "name": "Winged horse",
+    "summary": "The winged horse was a magical species of horse, distinct for possessing wings which enabled them to fly. Winged horses were found worldwide, with many different breeds existing, including the Abraxan, Aethonan, Granian and Thestral. Owners of winged horses were required by law to cast Disillusionment Charms on them regularly. Owners might compete in a winged horse race.",
+    "classification": "XX",
+    "native_to": "Worldwide",
+    "skin_color": null,
+    "eye_color": null,
+    "hair_color": "Varied",
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [
+      "Horse",
+      "Abraxan",
+      "Aethonan",
+      "Granian",
+      "Thestral"
+    ],
+    "distinctions": [
+      "Horses with wings capable of flight"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Beauxbatons_carriage_GOF_1.jpg",
+    "wiki": "https://harrypotter.fandom.com/wiki/Winged_horse"
+  },
+  {
+    "id": "winged-lion",
+    "slug": "winged-lion",
+    "name": "Winged lion",
+    "summary": "A winged lion was a magical creature with the body of a lion, but with large wings.",
+    "classification": null,
+    "native_to": null,
+    "skin_color": null,
+    "eye_color": null,
+    "hair_color": "White",
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [
+      "Lion"
+    ],
+    "distinctions": [
+      "Large wings"
+    ],
+    "affiliation": [],
+    "status": null,
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Winged_Lion_tapestry_(cropped)_HL.jpeg",
+    "wiki": "https://harrypotter.fandom.com/wiki/Winged_lion"
+  },
+  {
+    "id": "wombat-octapede",
+    "slug": "wombat-octapede",
+    "name": "Wombat-octapede",
+    "summary": "The wombat-octapede was a type of drake, possibly a hybrid between a wombat and a dragon. This creature had a body with the characteristics of a wombat, distinguished by the fact that it had eight thick legs.",
+    "classification": null,
+    "native_to": null,
+    "skin_color": null,
+    "eye_color": null,
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [
+      "Drake"
+    ],
+    "distinctions": [
+      "Possibly a hybrid between a wombat and a dragon",
+      "Has eight legs"
+    ],
+    "affiliation": [],
+    "status": "Extant (likely)",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Wombat-octapede.jpeg",
+    "wiki": "https://harrypotter.fandom.com/wiki/Wombat-octapede"
+  },
+  {
+    "id": "wyvern",
+    "slug": "wyvern",
+    "name": "Wyvern",
+    "summary": "The Wyvern was a giant, dragon-like, bird-like magical beast with two pairs of wings and a long, prehensile tail. It possessed the ability to inflate sections of its body.",
+    "classification": null,
+    "native_to": null,
+    "skin_color": null,
+    "eye_color": null,
+    "hair_color": null,
+    "feathers": null,
+    "height": null,
+    "length": null,
+    "wingspan": null,
+    "related_to": [],
+    "distinctions": [
+      "Two pairs of wings",
+      "Long and prehensile tail",
+      "Capable of inflating sections of its body",
+      "Capable of lifting the weight of a full-grown human being with its tail alone"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Wyvern_FB3.jpeg",
+    "wiki": "https://harrypotter.fandom.com/wiki/Wyvern"
+  },
+  {
+    "id": "yeti",
+    "slug": "yeti",
+    "name": "Yeti",
+    "summary": "The yeti, also known as the Abominable Snowman or Bigfoot, was a magical beast native to Tibet.",
+    "classification": "XXXX",
+    "native_to": "Tibet",
+    "skin_color": "Grey",
+    "eye_color": null,
+    "hair_color": "White",
+    "feathers": null,
+    "height": "15 feet",
+    "length": null,
+    "wingspan": null,
+    "related_to": [
+      "Troll (possibly)"
+    ],
+    "distinctions": [
+      "Human-like traits",
+      "Carnivorous",
+      "Fears fire"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/Yeti_-_FB-C.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Yeti"
+  },
+  {
+    "id": "zouwu",
+    "slug": "zouwu",
+    "name": "Zouwu",
+    "summary": "The Zouwu, sometimes written as ZouWu, was a powerful magical beast native to China.",
+    "classification": null,
+    "native_to": "China",
+    "skin_color": null,
+    "eye_color": "Yellow",
+    "hair_color": "Orange",
+    "feathers": null,
+    "height": "Size of an elephant",
+    "length": null,
+    "wingspan": null,
+    "related_to": [
+      "Cat"
+    ],
+    "distinctions": [
+      "Striped body",
+      "Maned head",
+      "Four fangs",
+      "Long tail",
+      "Incredibly powerful and fast"
+    ],
+    "affiliation": [],
+    "status": "Extant",
+    "image": "https://harrypotter.fandom.com/wiki/Special:FilePath/ZouwuWU.png",
+    "wiki": "https://harrypotter.fandom.com/wiki/Zouwu"
+  }
+]
