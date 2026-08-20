@@ -82,7 +82,13 @@ curl -s http://localhost:3000/api/books/hp1
 │   │   └── log.ts          # logs every incoming request URL
 │   └── data/               # per-entity JSON (books/hp1..hp7, movies/hp1..hp8, fb1..fb3)
 ├── assets/css/tailwind.css
-└── public/                 # logo.svg, logo-dark.svg, logo.png, favicon.ico
+└── public/                 # brand assets, all generated from one source PNG by
+                            #   scripts/branding/generate-logo-assets.mjs
+                            #   logo.png / logo-dark.png       full lockup
+                            #   logo-mark.png / -dark.png      shield only (header)
+                            #   favicon.ico                    multi-size, mark only
+                            #   apple-touch-icon.png           180x180, opaque
+                            #   og-image.png                   1200x630 social card
 ```
 
 ### How routing works

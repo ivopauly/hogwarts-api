@@ -1,5 +1,10 @@
 ---
-title: Home
+# The theme's index page sets ogTitle/ogDescription from this front-matter without
+# falling back to app.config's site.description, so omitting `description` here
+# publishes an empty og:description. `title` doubles as the og:title, which is why
+# it reads as a headline rather than "Home".
+title: A free API for the Wizarding World
+description: The Hogwarts API is a magical API containing data from the wizarding world of Harry Potter, Hogwarts Legacy and the Fantastic Beasts universe.
 navigation: false
 ---
 

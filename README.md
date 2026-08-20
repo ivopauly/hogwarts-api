@@ -1,9 +1,12 @@
 <div align="center">
-  <h1 align="center">
-    <a href="https://hogwarts-api.com">
-      <img src="public/logo.png" alt="Logo" width="120" height="120">
-    </a>
-  </h1>
+  <a href="https://hogwarts-api.com">
+    <picture>
+      <!-- The wordmark is navy, so it disappears on GitHub's dark theme.
+           The dark variant recolours it; the gold bolt is shared by both. -->
+      <source media="(prefers-color-scheme: dark)" srcset="public/logo-dark.png">
+      <img src="public/logo.png" alt="Hogwarts API" width="280">
+    </picture>
+  </a>
 
   <br />
   <a href="https://github.com/ivopauly/hogwarts-api/issues/new?assignees=&labels=bug&template=1_bug_report.yml">Report a Bug</a>
@@ -18,6 +21,8 @@
 <div align="center">
 <br />
 
+# Hogwarts API
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/7f0ff807-c593-4942-92fb-72dcf4bd03ea/deploy-status)](https://app.netlify.com/sites/hogwarts-api/deploys)
 [![Project license](https://img.shields.io/github/license/ivopauly/hogwarts-api)](LICENSE)
 [![Stars](https://img.shields.io/github/stars/ivopauly/hogwarts-api?style=flat-round)](https://github.com/ivopauly/hogwarts-api/stargazers)
@@ -27,8 +32,6 @@
 [![Lines of Code](https://tokei.rs/b1/github/ivopauly/hogwarts-api?category=code&style=flat-round)](https://github.com/ivopauly/hogwarts-api)
 
 </div>
-
-# Hogwarts API
 
 <details open="open">
 <summary>Table of Contents</summary>
@@ -45,7 +48,24 @@
 
 ## About ✨
 
-The Hogwarts API is a magical API containing data from the wizarding world of Harry Potter, Hogwarts Legacy and the Fantastic Beasts universe. It includes information on characters, movies, soundtracks, books, quotes, spells, and potions, making it a valuable resource for developers who need some magical (test) data to use in their code projects.
+The Hogwarts API is a magical API containing data from the wizarding world of Harry Potter, Hogwarts Legacy and the Fantastic Beasts universe.
+
+It serves **6,084 records** across six collections as plain JSON over HTTP — no API key, no signup, no rate limit — so you have something better than `lorem ipsum` when building, teaching or demoing.
+
+| Collection | Records | Endpoint |
+| --- | --- | --- |
+| Books | 7 | `/api/books` |
+| Movies | 11 | `/api/movies` |
+| Characters | 5,410 | `/api/characters` |
+| Spells | 345 | `/api/spells` |
+| Potions | 168 | `/api/potions` |
+| Creatures | 143 | `/api/creatures` |
+
+```bash
+curl https://hogwarts-api.com/api/spells/expecto-patronum
+```
+
+Full documentation lives at **[hogwarts-api.com](https://hogwarts-api.com)**.
 
 ## Developer Instructions 🪄
 

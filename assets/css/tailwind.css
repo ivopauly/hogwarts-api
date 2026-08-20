@@ -14,6 +14,18 @@
 @source inline('dark');
 
 /*
+  Brand palette, sampled from public/logo.png rather than eyeballed.
+  Tailwind 4 reads `@theme` at build time and emits both a CSS variable and the
+  matching utilities, so `--color-wizard-gold` also gives you `text-wizard-gold`,
+  `bg-wizard-gold`, `border-wizard-gold`, and so on.
+*/
+@theme {
+  --color-wizard-gold: #d1a132;   /* the lightning bolt */
+  --color-wizard-navy: #0a101c;   /* the shield, braces and wordmark */
+  --color-wizard-parchment: #f1f5f9; /* the navy stand-in on dark backgrounds */
+}
+
+/*
   Tailwind CSS v4 changed the default border color to `currentcolor`.
   These compatibility styles keep the v3 appearance. Removing them means
   adding an explicit border colour to every element that relied on the default.
