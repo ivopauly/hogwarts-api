@@ -13,14 +13,14 @@
 
 | Layer | Technology |
 |---|---|
-| Framework | Nuxt 3 (`^3.13.2`), Vue 3 (`^3.5.13`), vue-router `^4` |
+| Framework | Nuxt 4 (`^4.5.2`), Vue 3 (`^3.5.41`), vue-router `^4` |
 | Server / API | Nitro (Nuxt's built-in server engine), h3 event handlers |
-| Docs theme | `shadcn-docs-nuxt` (`^0.6.5`) — consumed via `extends` |
+| Docs theme | `shadcn-docs-nuxt` (`^1.2.2`) — consumed via `extends` |
 | Content | Nuxt Content (markdown/MDC), provided by the theme |
-| Styling | Tailwind CSS (config in `tailwind.config.ts`, entry `assets/css/tailwind.css`) |
+| Styling | Tailwind CSS **4** (legacy JS config bridged via `@config`; entry `assets/css/tailwind.css`) |
 | Language | TypeScript, ESM (`"type": "module"`) |
 | Package manager | npm (`package-lock.json` is committed; `.npmrc` sets `shamefully-hoist=true`) |
-| Node | 18+ (Nuxt 3 requirement); 20 LTS recommended |
+| Node | 20+ (Nuxt 4 requirement); 22 LTS recommended |
 
 There is **no linter, formatter or test runner installed** in this project today.
 `npm run lint` and `npm test` do **not** exist — see `.claude/rules/testing.md`.
@@ -28,7 +28,7 @@ Typechecking does exist (`vue-tsc`), with one caveat below.
 
 ### Typecheck caveat
 
-`npm run typecheck` reports ~102 errors, and **all of them are inside
+`npm run typecheck` reports ~127 errors, and **all of them are inside
 `node_modules/shadcn-docs-nuxt`** — the theme package's `app.config` types are narrower
 than the components that read them. They are not ours and cannot be fixed from here.
 
@@ -128,32 +128,61 @@ Data quirks worth knowing:
 Netlify builds from `main`. Nuxt's Netlify preset is auto-detected — no adapter config
 in `nuxt.config.ts`. Nitro API routes deploy as Netlify functions.
 
-## Dependency audit — known state (investigated 2026-08-20)
+## Dependency stack notes (upgraded 2026-08-20)
 
-`npm audit` reports **59 vulnerabilities (8 critical)**. Do **not** run `npm audit fix`
-— it was tried and it **breaks the build**:
+`npm audit` is down to **1 low** finding (an esbuild dev-server issue that only affects
+Windows, reached through `fontless`). It was 59 findings / 8 critical before the theme
+upgrade. **Do not run `npm audit fix`** — the remaining item has no non-breaking fix and
+`audit fix` has historically pulled release-candidate `unenv` builds that break the
+Nitro prerender step.
 
-- `npm audit fix` bumps `nitropack` 2.9.7 → 2.13.4, which pulls `unenv@2.0.0-rc.24`
-  (a release candidate). The pinned `nuxt-og-image` still expects the unenv 1.x path
-  layout, so prerendering dies with
-  `Could not load .../unenv/dist/runtime/runtime/mock/empty.mjs`.
-- Pinning `nitropack`/`unenv` back via `overrides` fails to install at all.
+The upgrade moved `shadcn-docs-nuxt` 0.6.5 → 1.2.2, which required Nuxt 3 → 4 and
+Tailwind 3 → 4. Four things had to change in *this* repo, and all four are easy to
+regress, so they are documented here:
 
-The vulnerabilities almost all trace to one root: **`shadcn-docs-nuxt@0.6.5`** drags in
-an old `@nuxt/content` → `@nuxtjs/mdc` and `nuxt-og-image` → `ipx`/`sharp`. `npm audit`
-says the fix is `shadcn-docs-nuxt@1.2.2`, which is a **major migration**, not a patch:
-it moves to Tailwind 4 (CSS-first config — our `tailwind.config.ts` would be rewritten),
-a `@ztl-uwu/nuxt-content` fork, `@nuxtjs/i18n`, and `typescript@^6` (which would in turn
-break `vue-tsc@2` — see the typecheck caveat above).
+1. **`nuxt.config.ts` must declare i18n.** The theme now bundles `@nuxtjs/i18n` with the
+   `prefix_except_default` strategy. Without `defaultLocale` + `locales`, the theme's
+   navigation composable throws `Cannot read properties of undefined (reading
+   'children')` and every docs page 500s. We declare a single `en` locale.
+2. **`assets/css/tailwind.css` must `@source` the theme.** Tailwind 4 skips
+   `node_modules` during automatic content detection, so the theme layer contributes no
+   utilities and the whole site renders unstyled. The explicit
+   `@source '../../node_modules/shadcn-docs-nuxt'` opts it back in. Upstream's own docs
+   site never hits this because it consumes the theme by relative path.
+3. **`content.highlight.langs` must include `mdc`.** The docs author MDC samples in
+   fenced blocks; without the language registered they do not highlight.
+4. **Tailwind 4 removed config-level `safelist`.** It is replaced by
+   `@source inline('dark')` in the CSS. Leaving `safelist` in `tailwind.config.ts` is a
+   typecheck error.
 
-**Severity in context:** most of the criticals are build/dev-time only (`@nuxt/devtools`,
-`shell-quote`, `simple-git`, `tar`). The one that matters at runtime is the
-`@nuxtjs/mdc` XSS in markdown rendering — but `content/` is authored by maintainers
-through PRs, not by end users, so exploiting it requires a malicious PR being merged.
+This project has no `app/` directory, so Nuxt 4 keeps the Nuxt 3 root layout
+(`assets/`, `app.config.ts`, `server/`, `content/` all stay where they are).
 
-**Recommended path:** treat the `shadcn-docs-nuxt` 1.x upgrade as its own scoped piece
-of work with a visual regression pass, not as part of an unrelated change. Baseline for
-comparison: `npm run build` currently exits 0 and emits a 39 MB `.output/`.
+### Known regression from the upgrade
+
+`content/1.getting-started/3.writing/3.components.md` and `4.prose.md` use the
+0.6.5-era authoring pattern:
+
+```
+::code-group
+  ::div{label="Preview"}
+  ...
+  ::
+  ```mdc [Code]
+  ...
+  ```
+::
+```
+
+shadcn-docs-nuxt 1.x replaced this with `::stack` plus a plain fenced block. 38 blocks
+across those two files still use the old form; they render as a single "Preview" panel
+instead of Preview/Code tabs. The code sample is still on the page, so nothing is lost —
+it just is not tabbed.
+
+Both files are **template placeholder documentation describing shadcn-docs-nuxt
+itself**, not Hogwarts API docs. Migrating them is worth doing alongside replacing that
+placeholder content with real API documentation. Upstream's current authoring is at
+`www/content/2.components/` in the ZTL-UwU/shadcn-docs-nuxt repo.
 
 ## This repository is PUBLIC
 
