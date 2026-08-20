@@ -20,7 +20,7 @@
 | Styling | Tailwind CSS **4** (legacy JS config bridged via `@config`; entry `assets/css/tailwind.css`) |
 | Language | TypeScript, ESM (`"type": "module"`) |
 | Package manager | npm (`package-lock.json` is committed; `.npmrc` sets `shamefully-hoist=true`) |
-| Node | 20+ (Nuxt 4 requirement); 22 LTS recommended |
+| Node | **24** — pinned via `.nvmrc` and `engines.node: ">=24"` in `package.json` |
 
 There is **no linter, formatter or test runner installed** in this project today.
 `npm run lint` and `npm test` do **not** exist — see `.claude/rules/testing.md`.
@@ -102,26 +102,44 @@ curl -s http://localhost:3000/api/books/hp1
   override a theme component, create a matching file locally — Nuxt layer resolution
   gives the project directory precedence over the extended layer.
 
-### ⚠️ Known state of the data layer (read this before touching the API)
+### The data layer
 
-`server/api/movies.ts` and `server/api/books/index.ts` currently return **hardcoded
-inline arrays**, and they are *incomplete* — `movies.ts` returns 5 of the 11 films,
-`books/index.ts` returns 2 of the 7 books. Meanwhile `server/data/books/*.json` and
-`server/data/movies/*.json` hold the full per-entity datasets and are **not imported
-by anything**. `server/api/books/[name].ts` is still a placeholder that returns the
-string `"Your magic book name is ${name}!"` rather than looking up a book.
+`server/data/` holds one flat JSON file per collection, each an array of records:
 
-The intended direction is for handlers to read from `server/data/`. When you work in
-this area, prefer wiring handlers to the JSON files over extending the inline arrays,
-and confirm the approach with the maintainer before a large refactor.
+| File | Records | Source |
+|---|---|---|
+| `books.json` | 7 | Potter DB + chapter lists preserved from this repo |
+| `movies.json` | 11 | Potter DB (one release date repaired from Fandom) |
+| `characters.json` | 5,410 | Potter DB |
+| `spells.json` | 345 | Potter DB |
+| `potions.json` | 168 | Potter DB |
+| `creatures.json` | 143 | Fandom wiki — Potter DB has no creatures endpoint |
 
-Data quirks worth knowing:
-- `server/data/**/*.json` files are keyed by id via **filename** (`hp1.json`), and the
-  JSON body itself has no `id` field — the inline arrays do.
-- In `server/api/books/index.ts`, `hp2`'s chapter objects are inconsistent: the first
-  nine use `summary`, the rest use `order` (and one is a number, not a string). Any
-  normalisation work should make chapter shape uniform.
-- Several `summary` fields are empty strings.
+Handlers read these through `server/utils/collections.ts`, which is auto-imported by
+Nitro. The datasets are **statically imported** so Nitro bundles them; do not switch to
+reading them with `fs` at runtime — that works in dev and breaks in the deployed
+Netlify function.
+
+`characters.json` is 4.4 MB and is inlined into the server bundle. That is well within
+Netlify's function size limit but it is the main contributor to cold-start size, so
+think before adding another collection of that scale.
+
+Regenerate any dataset with the scripts in `scripts/seed/` — see its README. They are
+one-off tools and are not imported by the app.
+
+### API shape
+
+Every response is wrapped in `data`. List endpoints add `meta`.
+
+- `GET /api` — directory of collections
+- `GET /api/{collection}` — paginated list; `?search=`, `?page=`, `?page_size=` (max 100)
+- `GET /api/{collection}/{name}` — one record by slug, exact name, or a name that
+  slugifies to a known slug
+
+Collections: `books`, `characters`, `creatures`, `movies`, `potions`, `spells`.
+
+Missing values are `null` rather than omitted, so every record in a collection has the
+same keys. Character data is sparse — `name` is 100% filled, `patronus` is 4%.
 
 ### Deployment
 
@@ -158,31 +176,36 @@ regress, so they are documented here:
 This project has no `app/` directory, so Nuxt 4 keeps the Nuxt 3 root layout
 (`assets/`, `app.config.ts`, `server/`, `content/` all stay where they are).
 
-### Known regression from the upgrade
+### Writing docs in `content/`
 
-`content/1.getting-started/3.writing/3.components.md` and `4.prose.md` use the
-0.6.5-era authoring pattern:
+`content/` holds the real Hogwarts API documentation (it used to be the theme's
+placeholder demo docs). Structure:
 
-```
+- `content/index.md` — landing hero
+- `content/1.getting-started/` — introduction, quick start, pagination, errors
+- `content/2.endpoints/` — one reference page per collection
+
+**MDC syntax matters and changed in shadcn-docs-nuxt 1.x.** Multi-language examples use
+`::code-group` containing fenced blocks whose label is in square brackets:
+
+````
 ::code-group
-  ::div{label="Preview"}
-  ...
-  ::
-  ```mdc [Code]
-  ...
-  ```
-::
+```bash [curl]
+curl https://hogwarts-api.com/api/books
 ```
 
-shadcn-docs-nuxt 1.x replaced this with `::stack` plus a plain fenced block. 38 blocks
-across those two files still use the old form; they render as a single "Preview" panel
-instead of Preview/Code tabs. The code sample is still on the page, so nothing is lost —
-it just is not tabbed.
+```js [JavaScript]
+await fetch('https://hogwarts-api.com/api/books');
+```
+::
+````
 
-Both files are **template placeholder documentation describing shadcn-docs-nuxt
-itself**, not Hogwarts API docs. Migrating them is worth doing alongside replacing that
-placeholder content with real API documentation. Upstream's current authoring is at
-`www/content/2.components/` in the ZTL-UwU/shadcn-docs-nuxt repo.
+The pre-1.x form — `::code-group` wrapping a `::div{label="Preview"}` — renders as a
+single untabbed panel and must not be reintroduced. For a rendered-component preview
+next to its source, 1.x uses `::stack`.
+
+Numeric filename prefixes drive sidebar order and are stripped from the URL, so
+renumbering a file changes a published URL.
 
 ## This repository is PUBLIC
 
