@@ -3,20 +3,28 @@ export default defineAppConfig({
     site: {
       name: "Hogwarts API",
       description:
-        "The API for getting information on the wizarding world in Harry Potter & Hogwarts.",
+        "The Hogwarts API is a magical API containing data from the wizarding world of Harry Potter, Hogwarts Legacy and the Fantastic Beasts universe.",
+      // A static card of the brand lockup. Without this the theme falls back to
+      // generating one per page from the ShadcnDocs component, which does not
+      // carry our branding.
+      ogImage: "/og-image.png",
     },
     theme: {
       customizable: true,
-      color: "zinc",
+      color: "yellow",
       radius: 0.5,
     },
     header: {
       title: "Hogwarts API",
       showTitle: true,
       darkModeToggle: true,
+      // The mark only, not the full lockup: the header renders the logo at h-7
+      // (28px) alongside the site title, so the wordmark would be both duplicated
+      // and illegible. The dark variant recolours the navy shield to #F1F5F9 —
+      // the gold bolt has enough contrast on either background and is unchanged.
       logo: {
-        light: "/logo.svg",
-        dark: "/logo-dark.svg",
+        light: "/logo-mark.png",
+        dark: "/logo-mark-dark.png",
       },
       nav: [],
       links: [
@@ -36,7 +44,7 @@ export default defineAppConfig({
       showTitle: true,
     },
     footer: {
-      credits: "Copyright © 2024",
+      credits: "Copyright © 2026",
       links: [
         {
           icon: "lucide:github",
