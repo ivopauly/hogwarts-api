@@ -1,0 +1,20 @@
+# Netlify configuration.
+#
+# Deliberately scoped to `build.environment` only. The build command and publish
+# directory are set in the Netlify UI (`npm run build` and `dist`) and are correct
+# as-is — Nitro's netlify preset writes static assets to dist/ and the server
+# function to .netlify/functions-internal/. Declaring them here as well would
+# silently take precedence over the UI and is not what we want.
+
+[build.environment]
+  # server/data/characters.json is 4.4 MB and is imported as a JS module, so
+  # Rollup parses it into an AST and holds it in memory for the whole bundle.
+  # Netlify's builder caps Node's old-space at ~2 GB, which that exceeds:
+  #   FATAL ERROR: Ineffective mark-compacts near heap limit  (exit code 134)
+  #
+  # It never reproduces locally because Node's default heap limit on a dev
+  # machine is much higher (4288 MB here), which is why every local build passed
+  # while every CI build failed.
+  #
+  # Verified: the build OOMs at --max-old-space-size=2048 and completes at 4096.
+  NODE_OPTIONS = "--max-old-space-size=4096"

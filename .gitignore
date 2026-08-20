@@ -26,3 +26,6 @@ logs
 # Claude Code local overrides
 CLAUDE.local.md
 .claude/settings.local.json
+
+# Local Netlify folder
+.netlify

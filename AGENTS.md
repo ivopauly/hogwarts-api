@@ -120,9 +120,20 @@ Nitro. The datasets are **statically imported** so Nitro bundles them; do not sw
 reading them with `fs` at runtime — that works in dev and breaks in the deployed
 Netlify function.
 
-`characters.json` is 4.4 MB and is inlined into the server bundle. That is well within
-Netlify's function size limit but it is the main contributor to cold-start size, so
-think before adding another collection of that scale.
+`characters.json` is 4.4 MB and is imported as a **JS module**, so Rollup parses it
+into an AST and holds it in memory for the whole bundle. That has two consequences:
+
+1. **Build memory.** Netlify's builder caps Node's old-space at ~2 GB and the build
+   exceeds it, dying with `FATAL ERROR: Ineffective mark-compacts near heap limit`
+   (exit 134). `netlify.toml` raises the limit to 4096 MB. This never reproduces
+   locally — a dev machine's default heap is much higher (4288 MB on macOS/arm64) —
+   so a green local build says nothing about CI here. To reproduce a CI failure:
+   `NODE_OPTIONS=--max-old-space-size=2048 npm run build`.
+2. **Cold-start size.** It is the main contributor to the deployed function's size.
+
+Adding another collection of that scale will push past 4096 too. The structural fix is
+Nitro `serverAssets` — ship the JSON as a file beside the function rather than compiled
+into it, so Rollup never parses it. That makes reads async and needs a memoised loader.
 
 Regenerate any dataset with the scripts in `scripts/seed/` — see its README. They are
 one-off tools and are not imported by the app.
