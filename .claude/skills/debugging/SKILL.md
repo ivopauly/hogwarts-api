@@ -58,7 +58,7 @@ package source before assuming the bug is yours.
 
 ### API returns the wrong or incomplete data
 
-Read `CLAUDE.md` → "Known state of the data layer" first. `server/api/movies.ts` and
+Read `AGENTS.md` → "Known state of the data layer" first. `server/api/movies.ts` and
 `server/api/books/index.ts` return hardcoded, **deliberately incomplete** inline arrays
 (5 of 11 movies, 2 of 7 books), and `server/api/books/[name].ts` is a placeholder that
 returns a greeting string. Missing entries are usually this known gap, not a new bug.
