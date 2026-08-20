@@ -1,0 +1,28 @@
+{
+  "_readme": [
+    "Optional MCP servers for this project. Copy an entry into .mcp.json's mcpServers",
+    "block and fill in the credentials to enable it. Keep .mcp.json limited to servers",
+    "that actually connect — a broken entry fails noisily on every Claude Code start.",
+    "Hogwarts API has no database today; the postgres entry is a template for if one",
+    "is ever introduced to back server/data/."
+  ],
+  "mcpServers": {
+    "postgres": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-postgres", "${DATABASE_URL}"]
+    },
+    "filesystem": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "${PWD}/server/data",
+        "${PWD}/content"
+      ]
+    },
+    "playwright": {
+      "command": "npx",
+      "args": ["-y", "@playwright/mcp@latest"]
+    }
+  }
+}

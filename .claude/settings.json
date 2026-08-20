@@ -1,0 +1,62 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
+  "permissions": {
+    "allow": [
+      "Bash(npm run dev:*)",
+      "Bash(npm run build:*)",
+      "Bash(npm run preview:*)",
+      "Bash(npm run generate:*)",
+      "Bash(npm run typecheck:*)",
+      "Bash(npm install)",
+      "Bash(npm ci)",
+      "Bash(npm ls:*)",
+      "Bash(npm outdated:*)",
+      "Bash(npx nuxt prepare:*)",
+      "Bash(npx nuxi:*)",
+      "Bash(node -e:*)",
+      "Bash(curl -s http://localhost:3000/*)",
+      "Bash(git status:*)",
+      "Bash(git diff:*)",
+      "Bash(git log:*)",
+      "Bash(git show:*)",
+      "Bash(git branch:*)",
+      "Bash(git add:*)",
+      "Bash(gh pr view:*)",
+      "Bash(gh pr list:*)",
+      "Bash(gh issue view:*)",
+      "Bash(gh issue list:*)",
+      "Bash(ls:*)",
+      "Bash(cat:*)",
+      "Bash(head:*)",
+      "Bash(tail:*)",
+      "Bash(wc:*)",
+      "Bash(find:*)",
+      "Bash(grep:*)",
+      "Bash(rg:*)",
+      "Bash(jq:*)",
+      "Bash(sed -n:*)",
+      "Bash(.claude/hooks/pre-commit-validate.sh)"
+    ],
+    "ask": [
+      "Bash(git push:*)",
+      "Bash(git commit:*)",
+      "Bash(gh pr create:*)",
+      "Bash(gh pr merge:*)",
+      "Bash(npm publish:*)",
+      "Bash(netlify deploy:*)"
+    ],
+    "deny": [
+      "Bash(rm -rf:*)",
+      "Bash(git push --force:*)",
+      "Bash(git reset --hard:*)",
+      "Read(./.env)",
+      "Read(./.env.*)",
+      "Edit(./.nuxt/**)",
+      "Edit(./node_modules/**)",
+      "Edit(./package-lock.json)"
+    ]
+  },
+  "env": {
+    "NODE_ENV": "development"
+  }
+}
