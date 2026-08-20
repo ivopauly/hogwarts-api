@@ -24,6 +24,15 @@ export default defineNuxtConfig({
       },
     ],
   },
+  // The theme ships @nuxtjs/color-mode with the default `system` preference.
+  // Dark is the brand's primary presentation (the gold reads best on navy), so it
+  // is the default for a first visit. `preference` only seeds the initial value —
+  // the header toggle still works and a visitor's choice is remembered.
+  colorMode: {
+    preference: 'dark',
+    fallback: 'dark',
+  },
+
   // nuxt-site-config (pulled in by the theme's nuxt-og-image) uses this to turn
   // relative asset paths into the absolute URLs that OpenGraph and Twitter require.
   site: {
