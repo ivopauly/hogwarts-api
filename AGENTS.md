@@ -129,7 +129,14 @@ curl -s http://localhost:3000/api/books/hp1
 | `creatures.json` | 143 | Fandom wiki — Potter DB has no creatures endpoint |
 
 Handlers read these through `server/utils/collections.ts`, which is auto-imported by
-Nitro. The datasets are **statically imported** so Nitro bundles them; do not switch to
+Nitro. Errors go through `server/utils/magicError.ts`, which puts a themed line in
+`statusMessage` and keeps the real explanation in `data.reason` — when adding a route,
+throw via `magicError()` rather than `createError()` so the two stay consistent, and
+always pass the literal reason so the API stays debuggable.
+
+`server/middleware/magic-headers.ts` stamps `X-Sorting-Hat`, `X-Wizard-Status` and
+`X-Deployment-Location` onto `/api` responses only; HTML pages and Nuxt's internal
+`/api/_*` endpoints are deliberately skipped. The datasets are **statically imported** so Nitro bundles them; do not switch to
 reading them with `fs` at runtime — that works in dev and breaks in the deployed
 Netlify function.
 
@@ -161,6 +168,10 @@ Every response is wrapped in `data`. List endpoints add `meta`.
   slugifies to a known slug
 
 Collections: `books`, `characters`, `creatures`, `movies`, `potions`, `spells`.
+
+`GET /api/teapot` always throws 418. It is an easter egg, not a collection, so it is
+deliberately absent from the `/api` directory listing — that is built from
+`collectionNames` and should stay that way.
 
 Missing values are `null` rather than omitted, so every record in a collection has the
 same keys. Character data is sparse — `name` is 100% filled, `patronus` is 4%.

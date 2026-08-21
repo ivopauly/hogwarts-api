@@ -98,7 +98,7 @@ function toSlug(value: string): string {
 export function findInCollection(event: import('h3').H3Event, name: CollectionName) {
   const identifier = String(getRouterParam(event, 'name') ?? '').trim();
   if (!identifier) {
-    throw createError({ statusCode: 400, statusMessage: 'A slug or name is required' });
+    magicError(400, 'A slug or name is required.');
   }
 
   const wanted = identifier.toLowerCase();
@@ -110,10 +110,7 @@ export function findInCollection(event: import('h3').H3Event, name: CollectionNa
     ?? all.find(item => item.slug?.toLowerCase() === wantedSlug);
 
   if (!record) {
-    throw createError({
-      statusCode: 404,
-      statusMessage: `No ${name.replace(/s$/, '')} found for "${identifier}"`,
-    });
+    magicError(404, `No ${name.replace(/s$/, '')} found for "${identifier}".`);
   }
 
   return { data: record };
