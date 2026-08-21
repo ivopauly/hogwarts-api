@@ -169,6 +169,10 @@ Every response is wrapped in `data`. List endpoints add `meta`.
 
 Collections: `books`, `characters`, `creatures`, `movies`, `potions`, `spells`.
 
+`GET /api/teapot` always throws 418. It is an easter egg, not a collection, so it is
+deliberately absent from the `/api` directory listing — that is built from
+`collectionNames` and should stay that way.
+
 Missing values are `null` rather than omitted, so every record in a collection has the
 same keys. Character data is sparse — `name` is 100% filled, `patronus` is 4%.
 
