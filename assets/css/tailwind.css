@@ -26,6 +26,32 @@
 }
 
 /*
+  app.config.ts selects the theme's `yellow` palette, whose primary is #FACC15 —
+  a brighter lemon than the logo's gold. These overrides retune that palette to the
+  brand colour exactly. The theme's themes.css is loaded before this file, and both
+  rules are unlayered, so equal specificity means source order wins.
+
+  Values are the HSL triplets shadcn expects (no `hsl()` wrapper, no commas):
+    #d1a132 -> 41.9 63.3% 50.8%     #0a101c -> 220 47.4% 7.5%
+
+  Contrast, measured rather than assumed: navy on gold is 8.02:1 (WCAG AAA), so
+  the dark-on-gold button text is comfortably readable. Gold on white is only
+  2.37:1, which is why the gold is used as a surface colour rather than for body
+  text — though note that is still better than the stock yellow's 1.53:1.
+*/
+.theme-yellow {
+  --primary: 41.9 63.3% 50.8%;
+  --primary-foreground: 220 47.4% 7.5%;
+  --ring: 41.9 63.3% 50.8%;
+}
+
+.dark .theme-yellow {
+  --primary: 41.9 63.3% 50.8%;
+  --primary-foreground: 220 47.4% 7.5%;
+  --ring: 41.9 63.3% 50.8%;
+}
+
+/*
   Tailwind CSS v4 changed the default border color to `currentcolor`.
   These compatibility styles keep the v3 appearance. Removing them means
   adding an explicit border colour to every element that relied on the default.

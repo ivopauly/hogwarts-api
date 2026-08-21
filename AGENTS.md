@@ -41,6 +41,13 @@ npm run typecheck 2>&1 | grep 'error TS' | grep -v '^node_modules/'
 `.claude/hooks/pre-commit-validate.sh` applies exactly that filter, so it fails on a
 type error you introduced and stays quiet about the vendored ones.
 
+**Keep TypeScript on the 5.x line.** TypeScript 7 removed the `typescript/lib/tsc`
+subpath export, and `vue-tsc` still resolves it, so `npm run typecheck` dies with
+`ERR_PACKAGE_PATH_NOT_EXPORTED` before checking anything. This was re-verified against
+`vue-tsc@3.3.10`, whose peer range advertises `typescript: ">=5.0.0"` — the declaration
+is simply ahead of the implementation. `.github/dependabot.yml` ignores major bumps of
+`typescript` for this reason; drop that ignore once vue-tsc stops looking for lib/tsc.
+
 ## Commands
 
 ```bash
