@@ -16,3 +16,11 @@ updates:
     directory: "/"
     schedule:
       interval: "daily"
+    ignore:
+      # vue-tsc still require.resolve()s `typescript/lib/tsc`, which TypeScript 7
+      # removed, so `npm run typecheck` dies with ERR_PACKAGE_PATH_NOT_EXPORTED.
+      # Verified against vue-tsc 3.3.10 — its peer range claims ">=5.0.0" but the
+      # implementation has not caught up. Revisit when vue-tsc drops the lib/tsc
+      # lookup; until then major bumps here only produce a broken typecheck.
+      - dependency-name: "typescript"
+        update-types: ["version-update:semver-major"]
