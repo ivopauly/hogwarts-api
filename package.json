@@ -1,6 +1,6 @@
 {
   "name": "hogwarts-api",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "The Hogwarts API is a magical API containing data from the wizarding world of Harry Potter, Hogwarts Legacy and the Fantastic Beasts universe.",
   "private": true,
   "type": "module",
